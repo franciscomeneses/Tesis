@@ -1,5 +1,5 @@
 # Explicando la desigualdad del conocimiento civico. 
-https://franciscomeneses.github.io/Tesis/
+[Proyecto](https://franciscomeneses.github.io/Tesis/index.html)
 
 
 
