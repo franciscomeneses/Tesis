@@ -1,0 +1,129 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# Metodología
+
+## Datos 
+
+### ICCS   
+Para abordar la pregunta de investigación se trabajará con la base de datos de la encuesta internacional de conocimiento cívico (ICCS) en su tercera versión (2016). La ICCS es una encuesta enfocada en el estudio longitudinal del conocimiento cívico y las actitudes democráticas en estudiantes de octavo grado de 24 países. Dieciséis de esos países son de Europa, cinco de América Latina y tres de Asia, representados por 94.000 estudiantes y 37.000 profesores de 3.800 colegios [@schulzICCS2016Technical2016]. Junto con una estrecha colaboración entre la IEA y los centros de estudios de cada país, los encargados de la elaboración de los datos fueron El Consejo Australiano para la Investigación Educativa (ACER) en Melbourne y el Laboratorio di Pedagogia Sperimentale (LPS) en la Universidad Roma Tre [@ieaInternationalCivicCitizenship2016]. La muestra de estudiantes posee un diseño estratificado de dos etapas, eligiendo escuelas al azar en un país y aulas al azar en una escuela, de tal modo que cada país tenga aproximadamente 150 escuelas y entre 3000 y 45000 estudiantes. La muestra de chile, con trabajo de campo en el 2015, incorporo colegios elegidos aleatoriamente, y representativos de distintas dependencias y regiones, tanto de sectores rurales como urbanos. De las escuelas seleccionadas aleatoriamente el 85% acepto participar, y dentro de las escuelas participantes, el 85% de los estudiantes acepto participar. En total, participaron 5.081 estudiantes de 178 establecimientos según señala la agencia de calidad de la educación [@aceInformeTecnicoSimce2018].
+    
+### SIMCE
+Adicionalmente se utilizaron los datos Simce del 2015, prueba censal que fue aplicada a los mismos estudiantes participantes del estudio de la ICCS, lo cual permite agregar estas bases de datos, logrando tener las variables de ambos estudios para cada estudiante de la muestra del ICCS. El Simce evalúa los logros de aprendizaje en las asignaturas de Lenguaje y Comunicación (Comprensión Lectura y Escritura); Matemática; Ciencias Naturales; Historia, Geografía y Ciencias Sociales e Inglés. En esta ocasión, hemos utilizado los datos de la prueba Simce de lenguaje y comunicación, más específicamente, de comprensión lectora. El estudio Simce, al igual que el ICCS, trabaja con el modelo de medición de ITR (Teoria de respuesta al ítem). "En particular [el Simce trabaja con] el modelo IRT de tres parámetros, [el cual] permite estimar la habilidad de un estudiante, basándose en la probabilidad de respuesta correcta según tres características propias de las preguntas: dificultad, discriminación y azar [@aceInformeTecnicoSimce2018]. Los procesos de aplicación de los instrumentos (pruebas y cuestionarios10) se llevan a cabo en función de instrucciones, manuales y protocolos de actuación que se basan en los criterios de estandarización internacional [@aeraReportRecommendationsReauthorization2011]. 
+
+Respecto al tipo de preguntas, estas son de opción múltiple, pues este formato permite reportar información de la mayoría de los constructos a evaluar en forma efectiva y eficiente, asegurando validez, confiabilidad y objetividad del instrumento en su totalidad [@ruppHandbookTestDevelopment2008]. En miras de este objetivo de la validez del instrumento, se realizan desde el año anterior a la aplicación pruebas piloto, las cuales son analizadas cualitativa y cuantitativamente para construir los indicadores más adecuados posibles. En suma, el Simce realiza una Logística de preparación que implica un gran gasto de recursos con el objetivo de reducir al máximo el error de medida. 
+
+  
+## Variables 
+    
+### Prueba de conocimiento cívico y ciudadano
+La prueba de conocimiento cívico de la ICCS, tiene como objetivo evaluar los conocimientos necesarios para comprender y valorar la vida en sociedad y las formas de organización democrática, la capacidad de razonar acerca de las instituciones, eventos, acciones y procesos que se desarrollan en sus comunidades y la habilidad de desarrollar y justificar opiniones y visiones sobre estos elementos [@schulzInitialFindsIEA2010]. Los ítems de prueba requerían que los estudiantes aplicaran los procesos cognitivos al contenido cívico y de ciudadanía como se describe en el marco de evaluación del reporte técnico [@schulzICCS2016Technical2016]. Más específicamente, la prueba de conocimiento Cívico y ciudadano mide:
+
+* _Dominios de contenido_   
+    +  Sociedad y sistemas cívicos
+    + principios cívicos
+    + Participación cívica
+    + Identidades cívicas
+* _Dominios cognitivos_
+    + conocimiento memorización
+    + Razonamiento y aplicación
+
+Se utilizaron dos formatos de ítems: 79 de 88 ítems de la prueba son de opción múltiple con cuatro opciones de respuesta, como se puede ver en los ejemplos de los Anexos; los nueve ítems restantes fueron de respuesta construida para los cuales los estudiantes debían escribir entre una y tres oraciones. Para calcular los puntajes de cada estudiante, se parte de una media de 500 puntos, considerando una desviación estándar de 100 puntos, y según esta métrica se calculan 5 posibles resultados para cada estudiante. El que sean 5 resultados refleja el error y la incertidumbre propia de la medición de constructos complejos, al respecto se ha decidido trabajar con la primera estimación de puntaje. Según el reporte técnico [@schulzICCS2016Technical2016], se utilizó la teoría de respuesta al ítem. Para escalar los datos de prueba de ICCS 2016, los autores recurrieron al paquete de software de escalado ACER ConQuest, Versión 4. Posteriormente se realizaron diversas pruebas de validez, confiabilidad y equivalencia para comprobar que el conocimiento cívico es un constructo unidimensional,  continuo y fiable.
+Además de las evaluaciones de fiabilidad, invarianza, equivalencia y validez realizadas por los centros de investigación designados por la IEA en el marco de la ICCS, otras agencias han evaluado la calidad de los cuestionarios. Así, por ejemplo,  la agencia nacional de educación, evaluar el sesgo de deseabilidad social, concluyendo que la prueba no presenta problemas mayores de deseabilidad, y que estos se concentran en los aspectos de preguntas de actitudes y opiniones [@mineducImpactoDeseabilidadSocial2009]     
+  
+A continuación, se presenta una tabla con distintos rangos de puntaje y distintas capacidades que son asociadas a este puntaje. Como puede verse seria optimo que los jóvenes alcancen puntajes de conocimiento cívico superiores a 563 puntos.   
+  
+  
+```{r echo=FALSE, fig.cap="rangos iccs", fig.align = 'center', out.width = '80%'}
+knitr::include_graphics(path = "images/puntajesdecorteiccs.png")
+```
+  
+### Prueba de comprensión lectora
+    
+La comprensión lectora busca evaluar a los estudiantes en su capacidad de manejo del lenguaje y la comunicación. Específicamente, la prueba de lenguaje evalúa las siguientes actividades. 
+
+* Localizar información
+    + Identificar
+    + Discriminar
+    + Extraer
+* Interpretar
+    + Inferir
+    + Interpretar lenguaje denotativo
+    + Reconocer relaciones causales
+* Reflexionar
+    + Contrastar con conocimientos previos
+    + Evaluar críticamente aspecto de contenido y formato
+
+Así, como puede apreciarse, para un buen puntaje en comprensión lectora, no solo se requiere la capacidad de decodificar el significado de las palabras, sino que se requiere un manejo del lenguaje a un nivel de razonamiento. Como ya se comentó, el proceso de elaboración y aplicación de la prueba tiene el objetivo de disminuir al mínimo variables externas al manejo del lenguaje que pudieran afectar la medición. Para evaluar las propiedades psicométricas de esta prueba, los encargados de la prueba Simce realizaron análisis en base a lineamientos internacionales [@aeraReportRecommendationsReauthorization2011]. En base a los análisis realizados por el equipo técnico [@aceInformeTecnicoSimce2018], podemos decir que la prueba de comprensión lectora es unidimensional (i.e El AFC indica un solo factor), posee independencia local (i.e estudiantes de un mismo rendimiento no presentan dificultades para determinada pregunta por factores externos) y motricidad creciente (i.e es un constructo continuo donde la probabilidad de responder correctamente un ítem aumenta progresivamente en estudiantes de mayor rendimiento). 
+
+```{r echo=FALSE, fig.cap="rangossimce", fig.align = 'center', out.width = '80%'}
+knitr::include_graphics(path = "images/Rangos-puntaje-simce.png")
+```
+
+    
+### Estatus socioeconómico del estudiante y del colegio. 
+    
+Para trabajar la medicación del estatus socieconómico del colegio, se trabajara con tres variables, el estatus ocupacional más alto entre los padres, el nivel educativo más alto de los padres y la cantidad de libros en le hogar. Para simplificar los cálculos a realizar, las dos ultimas variables sera dicotomizadas de tal modo que representen, tener un padre con educación universitaria y poseer más de 100 libros en el hogar respectivamente. Dicotomizar las variables permitira disminuir la cantidada de parametros a estimar y la existencia de categorias con muy pocas respuestas en las escuelas las cuale sestan altamente segregadas socioeconomicamente. Estas variables serán utilizadas para trabajar la mediación.
+
+Para trabajar la moderación del efecto  del nivel socioeconómico de los estudiantes se utilizará el Índice nacional de antecedentes socioeconómicos el cual es elaborado por el equipo de la ecuesta ICCS. Este índice es elaborado como un puntaje factorial que representa una variable latente relacionada con el mayor nivel ocupacional entre los padres, el mayor nivel educativo entre los padres y la cantidad de libros declarados en el hogar. Para evaluar el contexto socioeconómico del establecimiento educativo, se trabajará con el promedio por colegio del Índice nacional de antecedentes socioeconómicos. 
+
+    
+### Interés político
+
+Para medir el interés político los estudiantes se utilizará la pregunta creada por la encuesta internacional ICCS. En este ítem se le pregunta al estudiante ¿Qué tan interesado está en temas políticos y sociales? (Muy interesado/ Bastante interesado / No muy interesado / No me interesa en absoluto). Para simplificar el análisis se ha recodificado esta pregunta de tal modo que las dos primeras alternativas se resumen en "Interesado en la politica" y las últimas dos en "No interesado en la politica". Cabe destacar que, para el análisis de mediación, se utilizó la variable original de 4 categorías centrada al promedio de la escuela. 
+
+### Variables de control
+
+Como variables de control, será incluida la calidad de la discusión en el aula, ya que este es un indicador que ha sido consistentemente señalado como relevante por la evidencia, esta variable de nivel dos corresponde al promedio de los indicadores relacionados con las preguntas de clima en el aula. 
+
+## Métodos 
+
+[tengo dudas con centrar libros siendo dicotomica se le restaria al 1 el %]
+
+Respecto al método, este estudio trabajara desde un enfoque cuantitativo transversal. El uso de las herramientas cuantitativas es fundamental para despejar las dudas planteadas en este artículo, puesto que la cuantificación, como medición de lo social [Asún, 2006  @canalesMETODOLOGIASINVESTIGACIONSOCIAL2006], nos permitirá contrastar que variable posee una mejor capacidad mediadora de la reproducción de la desigualdad politica, la comprensión lectora o el interés político.
+
+Se trabajará con técnicas de regresión multinivel, ya que estas son indispensables al estudiar muestras jerárquicas de colegios. Las regresiones multinivel, a diferencia de las regresiones normales, asumen que los estudiantes de un mismo establecimiento compartirán características debido al contexto común. Si se trabajara con regresiones lineales de un solo nivel, se rompería el supuesto de independencia de los casos en la muestra, ya que los casos están relacionados entre si al pertenecer a los mismos establecimientos. Esta metodología también nos permite evaluar el efecto de características de la escuela, como lo son el NSE promedio o la percepcion promedio de apertura a la discusión. Más específicamente, dentro del trabajo con regresiones multinivel, se trabajará con relaciones pendientes aleatorias, mediación multinivel e interacciones entre niveles. 
+
+Las pendientes aleatorias sirven para evaluar como varia la pendiente de una relación en distintos contextos, para este trabajo se calculará la variación de la pendiente de la relación entre conocimiento cívico y comprensión lectora. 
+La medición multinivel permite evaluar una cadena causal considerando la estructura jerárquica de los datos. Para comprender esta metodología, es necesario entender que una medicación corresponde al fenómeno según el cual una variable "X", explica una variable "Y", por medio de "M", de tal modo que "X" genera "M" y M genera "Y" [@mathieuFrameworkTestingMesomediational2007]. Al igual que en una mediación de un solo nivel, es requisito para comprobar la mediación multinivel, que "X" sea capaz de explicar tanto "M" como "Y", y que, además, M sea capaz de explicar "Y", controlando, en alguna medida el efecto de "X" [@baronModeratorMediatorVariable1986]. En nuestro caso, queremos evaluar la capacidad de la comprensión lectora de mediar la relación entre NSE y conocimiento cívico, por ende, debemos evaluar la capacidad explicativa del NSE sobre la comprensión lectora y el conocimiento cívico (CC), y posteriormente, ver la capacidad del manejo del lenguaje de controlar el efecto del NSE sobre CC.
+
+Considerando las recomendaciones de [@zhangTestingMultilevelMediation2009] para cuando todas las variables del proceso de mediación se encuentran en el primer nivel, es fundamental, para evitar confusiones de los efectos producidas por la estructura jerárquica de la muestra, evaluar las relaciones en ambos niveles, es decir, un efecto de mediación intragrupo y otro entre grupos, para ello se deben realizar centrados en las medias de los grupos, según concluyeron los investigadores a partir de pruebas de simulación Montecarlo. 
+
+A continuación se expone el calculo que a realizar para probar la mediación multinivel. En general el modelo señala que el Conocimiento cívico es explicado por la comprensión lectora, la cual a su vez se debe a los recursos de la familia. El modelo también calcula los efectos directos e indirectos de los recursos de la familia sobre el conocimiento cívco. Las siguientes formulas no contienen todos los controles señalados. 
+
+a) _Influencia de los recursos familiares en el lenguaje_
+
+\begin{equation}
+\text{C.Lectora}= i_1 +\gamma_{10}\text{Ocupación}_{ij} + \gamma_{20}\text{Universitarios}_{ij}+ \gamma_{30}\text{Libros}_{ij}+u_{0j}+r_{ij}
+\end{equation}
+
+b) _Influencia directa de los recursos familiares en lo cívico_
+
+\begin{equation}
+\text{C.Civico}= i_2+\gamma_{40}\text{Ocupación}_{ij} + \gamma_{50}\text{Universitarios}_{ij}+ \gamma_{60}\text{Libros}_{ij}+u_{0j}+r_{ij}
+\end{equation}
+
+c) _Influencia del lenguaje e influencia controlada de los recursos familiares en lo cívico_
+
+\begin{equation}
+\text{C.Civico}= i_+\gamma_{70}\text{C.Lectora}_{ij}+\gamma_{70}\text{Ocupación}_{ij} + \gamma_{80}\text{Universitarios}_{ij}+ \gamma_{90}\text{Libros}_{ij}+u_{0j}+r_{ij}
+\end{equation}
+
+  * Efectos indirectos de recursos familiares sobre conocimiento civico
+         
+     + Ocupación de los padres = $\gamma_{10}\times\gamma_{70}$
+      
+     + Padres Universitarios = $\gamma_{20}\times\gamma_{80}$
+          
+     + Libros en el hogar = $\gamma_{30}\times\gamma_{90}$
+
+En suma, se evaluará la medicación de la comprensión lectora sobre la relación entre NSE y conocimiento Cívico, evaluando la relación a nivel dos y a nivel uno, incorporando centrados a la media del grupo. Se espera que el efecto de NSE sobre CC disminuya en buena medida al incluir el control de la comprensión lectora. además, se espera que la disminución del efecto por control sea mayor al incluir la variable comprensión lectora que interés político. 
+En términos de interacciones entre niveles, evaluaremos la capacidad de la comprensión lectora del estudiante de moderar el efecto negativo sobre el conocimiento cívico que se debería de pertenecer a un establecimiento de bajo NSE promedio. Siguiendo las buenas prácticas para interacciones multinivel propuestas por [@aguinisBestPracticeRecommendationsEstimating2013], se centraron las variables según el promedio de la escuela, con la intención de despejar debidamente el componente individual de la varianza. 
+
+### Software
+
+El software de análisis estadístico utilizado fue R (versión 4.02) y la plataforma de edición Github. Para los análisis multinivel recurrimos al paquete lme4, en su versión 1.1-23 [@batesPackageLme42020]. 
+
+Además, siguiendo los lineamientos de la ciencia abierta, este trabajo está en un repositorio para facilitar tanto su acceso como su reproductibilidad. El lector de este seminario esta cordialmente invitado a visitar la [página web del proyecto](https://franciscomeneses.github.io/Seminario/docs/index.html) en la que se puede revisar tanto el articulo como los análisis. Igualmente, si el lector desea reproducir los análisis para verificar su veracidad, puede descartar el proyecto  desde el [repositorio de Github](https://github.com/franciscomeneses/Seminario). Para facilitar la comprensión del orden de los archivos, estos se han ordenado según el esquema [IPO](https://juancarloscastillo.github.io/ipo/), propuesto por Castillo (2020)
