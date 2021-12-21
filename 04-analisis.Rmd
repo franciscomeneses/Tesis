@@ -1,28 +1,33 @@
 # Análisis
 
-A continuación, se presentan análisis uni y bivariados para las variables más importantes del estudio. De este modo buscamos aproximarnos a la realidad del país para sacar mejores conclusiones en torno a los modelos. Para los análisis descriptivos, bivariados y multivariados, se utilizan los puntos de corte del conocimiento cívico y de la comprensión lectora señalados respectivamente por el Mineduc y los representantes de la IEA. Los puntos de corte ayudaran a comprender la magnitud de las diferencias y las reales implicancias de la temática.
+A continuación, se presentan análisis uni y bivariados para las variables más importantes del estudio. De este modo buscamos aproximarnos a la realidad del país para sacar mejores conclusiones en torno a los modelos. De este modo, podremos comprender los actuales niveles de conocimiento cívico y comprensión lectora de nuestros estudiantes.     Para los análisis descriptivos, bivariados y multivariados, se utilizan los puntos de corte del conocimiento cívico y de la comprensión lectora señalados respectivamente por el Mineduc y los representantes de la IEA. Los puntos de corte ayudaran a comprender la magnitud de las diferencias y las reales implicancias de la temática.
 
 
 ## Análisis descriptivo
 
 El presente gráfico presenta la distribución del conocimiento cívico en los estudiantes chilenos de octavo básico del 2015. Junto a la distribución se expone el porcentaje de estudiantes que se encuentra en cada nivel del conocimiento cívico. Como se puede ver en la imagen casi un 15% de los estudiantes se encuentra por debajo del nivel que pretende medir la prueba de la ICCS, lo cual es un dato bastante preocupante. Seguidamente un cuarto de los estudiantes posee conocimientos cívicos y algún compromiso con valores democráticos, pero no comprende el funcionamiento de las principales instituciones. Un tercio de los estudiantes si comprende los conceptos más relevantes y es capaz de comprender la interacción de las distintas instituciones cívicas y ciudadanas en procesos relevantes, pero no es capaz de aplicar estos conocimientos para evaluar situaciones concretas. Finalmente, la cuarta parte de los estudiantes alcanzan el máximo nivel señalado por la ICCS, denotando ser capases de aplicar estos conocimientos para evaluar o justificar situaciones concretas. Cabe destacar que el promedio de los estudiantes bordea los 500 puntos, estando en el nivel de compresión, además el puntaje mínimo es 232,1 y el puntaje máximo es 782,7.
 
-```{r echo=FALSE, fig.cap="Distribición del Conocimiento Civico", fig.align = 'center', out.width = '90%'}
+```{r echo=FALSE, fig.cap="Distribición del Conocimiento Civico", fig.align = 'center', out.width = '110%'}
 knitr::include_graphics(path = "images/dist.png")
 ```
   
-El grafico posterior corresponde a la distribución de la comprensión lectora, prueba en la cual se muestra un peor desempeño que en la prueba de conocimiento cívico. Dos de cada cinco estudiantes poseen una comprensión lectora insuficiente, mientras que menos de uno cada cuatro posee un nivel adecuado.  
+\newpage
+  
+El grafico posterior corresponde a la distribución de la comprensión lectora, prueba en la cual se muestra un peor desempeño que en la prueba de conocimiento cívico. Dos de cada cinco estudiantes poseen una comprensión lectora insuficiente, mientras que menos de uno cada cuatro posee un nivel adecuado. 
 
 
-```{r echo=FALSE, fig.cap="Distribición de la Comprensión lectora", fig.align = 'center', out.width = '90%'}
+Esto da cuenta de un problema muy preocupante, ya que implica que buena parte de los estudiantes no poseen un desarrollo adecuado de habilidades como la comprensión, la interpretación o el análisis, habilidades las cuales hemos argumentado son fundamentales para la vida ciudadana. 
+
+```{r echo=FALSE, fig.cap="Distribición de la Comprensión lectora", fig.align = 'center', out.width = '110%'}
 knitr::include_graphics(path = "images/dist2.png")
 ```
 
+\newpage  
   
 ## Análisis relaciónal
 Retomando nuestra hipótesis y robusteciéndola con las definiciones planteadas, podemos decir que el manejo del lenguaje, como herramienta del razonamiento, posee una influencia positiva en las habilidades políticas necesarias para la vida ciudadana, entre las cuales destacan la comprensión, la interpretación y la evaluación. Igualmente podemos decir que ambos conceptos son bien medidos por la prueba de conocimiento cívico y ciudadano, así como por las pruebas de lectura. Antes de entrar en el trabajo de datos de esta investigación (que será con las bases ICCS y SIMCE), se presenta una evidencia preliminar. A continuación, se puede observar un gráfico que expone la relación a nivel internacional, entre los promedios de los estudiantes por país de las pruebas de comprensión lectora de la prueba pisa y el conocimiento cívico de la ICCS. 
 
-```{r echo=FALSE, fig.cap="relación internaciónal", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="relación internaciónal", fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(path = "images/relacionmacro.png")
 ```
 
@@ -36,9 +41,22 @@ knitr::include_graphics(path = "images/scater.png")
 Como puede verse la relación es igualmente positiva aunque, en relación a lo internacional, disminuye la intensidad De todos modos, se puede apreciar en base a la correlación de pearson una relación de alta intensidad según los parámetros de Cohen ($r= .66$).
 
 
-```{r echo=FALSE, fig.cap="Grafico de barras", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="Niveles de conocimiento civico según comprensión lectora", fig.align = 'center', out.width = '80%'}
 knitr::include_graphics(path = "images/barpot.png")
 ```
+
+El grafico de la figura numero 9.5, resulta sumamente ilustrativo del punto que busca señalar esta tesis. Para entender el grafico debemos comprender que se esta graficando la relación entre los niveles de conocimiento cívico y los niveles de manejo del lenguaje. Los niveles de manejo del lenguaje se clasifican en insuficiente, elemental y adecuado, mientras que los niveles de conocimiento cívico no refieren a que tan aceptable son los resultados, sino hasta que habilidad logran desarrollar los estudiantes en la prueba de formación ciudadana. Como se mencionó anteriormente para responder bien la prueba de cívica no solo es necesario poseer un amplio conocimiento de memoria sobre asuntos cívicos y ciudadanos. Más bien es necesario tener habilidades para poder interpretar situaciones políticas. Al respecto la habilidad más compleja es la de evaluar, la cual puede comprenderse según los evaluadores como dar cuenta de la postura de un enunciado o evaluar críticamente su pertinencia en determinada situación. Analicemos minuciosamente la distribución de cada uno de los conjuntos de barras.
+
+El primer conjunto de barras refiere a las personas que son calificadas como insuficientes en la prueba de conocimiento cívico. Esta clasificación es bastante deprimente, pues implica que esos estudiantes no poseen el nivel mínimo que busca medir la prueba. Por decirlo asi, quedan por debajo de la regla de medición. Como vimos anteriormente aproximadamente el 15% de los estudiantes se encuentra en esta categoría. Entre ellos, es notorio, observando los colores que prácticamente se trata de estudiantes con niveles deficientes de manejo del lenguaje. Casi todos los que pertenecen a este grupo comparten la característica de poseen una mala calificación en la prueba de comprensión lectora. Esto va en línea con nuestra hipótesis. 
+
+El segundo grupo corresponde a quienes logran demostrar sus conocimientos en la prueba, pero no sus habilidades. En este grupo siguen siendo preminentes los estudiantes que poseen un nivel menor al elemental en comprensión lectora. Además, se puede observar que existe una mayor proporción de estudiantes que poseen simplemente un nivel elemental de lectura pero que no es adecuado para su grado de estudio. 
+
+En el tercer grupo se encuentran quienes demostraron poseer la capacidad de comprender situaciones políticas. Esta es una habilidad fundamental para el mundo político, pues comprenderlo es parte esencial del proceso para participar de él. En este grupo, la mayoría de los estudiantes poseen un nivel de lectura elemental, pero no adecuado para su nivel. Seguidamente, el grupo que más destaca después del elemental es quienes poseen un nivel insuficiente manejo del lenguaje.  Finalmente, en este grupo a diferencia de los dos anteriores es más considerable la proporción de estudiantes que poseen un nivel adecuado, mas no sobresaliente. Quizás seria bueno para versiones posteriores incluir la categoría sobresaliente en lenguaje. 
+
+El ultimo grupo corresponde a quienes poseen la habilidad de interpretar y evaluar situaciones políticas.  Esta es una habilidad de alta exigencia cognitiva y requiere el manejo de las habilidades anteriores. Una persona que es capas de interpretar y evaluar propuestas políticas esta mucho más preparada para la ciudadanía, especialmente desde una perspectiva del actor crítico, pues tendrá herramientas para esa crítica. Es este en el único grupo que se encuentra una prevalencia de las personas con una lectura adecuada y el único grupo donde la presencia de estudiantes con una lectura deficiente es casi marginal.  De todos modos, resulta interesante profundizar en aquellos casos que logran poseen habilidades de evaluación sin un buen manejo del lenguaje.  
+
+Lo evidenciado en esta descripción de los datos va en dirección de lo planteado en las hipótesis. Mientras mejores son las habilidades lingüísticas del estudiante, más probable parece ser que este posea buenas habilidades para la vida cívica y ciudadana. Para comprobar estos resultados preliminares recurriremos las regresiones multinivel que responden mejor a las condiciones de los datos a analizar. 
+
 
 ## Modelos
 
@@ -50,12 +68,13 @@ A partir del modelo nulo, utilizando la varianza entre grupos y residual, se cal
 knitr::include_graphics(path = "images/iccplot.png")
 ```
 
+\newpage
 
 ###  Resultados del análisis multinivel: efectos e interacción.
 
 En la tabla consecutiva se presentan 4 modelos multinivel los cuales son todos significativamente mejores que el anterior. El primer modelo incluye las variables de reproducción social, el segundo, incluye una variable de la escuela, el tercero agrega el interés político social del estudiante. El cuarto incluye la variable puntaje en la prueba Simce de lenguaje, y el quinto expone la aleatorización de la pendiente y la interacción  de una variable nivel dos: el promedio del nivel socioeconómico.
 
-```{r echo=FALSE, fig.cap="Modelo", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, tab.cap="Modelo", fig.align = 'center', out.width = '120%'}
 knitr::include_graphics(path = "images/regmultinivel.png")
 ```
 
@@ -70,7 +89,7 @@ El cuarto modelo es el modelo fundamental de este trabajo. En este modelo las de
 
 El quinto modelo es un poco más complejo. Primero incorpora la aleatorización de la pendiente del efecto de la comprensión lectora sobre el conocimiento cívico, permitiendo que esta varíe según contextos. Luego, intentamos explicar dicha variación de la pendiente en función del nivel socioeconómico del colegio, para ver si el efecto del lenguaje sobre el conocimiento cívico difiere en contextos socioeconómicos distintos. Como puede verse en la tabla, el efecto es significativo, y mientras mayor es el nivel socioeconómico menos importante es la comprensión lectora. Para graficar esta interacción, invertimos el sentido de esta. De este modo, se presenta a continuación la capacidad del lenguaje de moderar el efecto de la desigualdad producida por el NSE promedio del colegio.
 
-```{r echo=FALSE, fig.cap="Interacción", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="Interacción", fig.align = 'center', out.width = '120%'}
 knitr::include_graphics(path = "images/inter2.png")
 ```
 
@@ -85,7 +104,7 @@ Respecto a la capacidad de este modelo de predecir el conocimiento cívico, se d
 A continuación, se presentan los resultados del análisis de mediación multinivel. En estos se evalúa la capacidad del lenguaje de explicar la relación entre NSE y conocimiento cívico, haciendo esta evaluación a nivel uno y nivel dos como recomienda la literatura. Para este fin, se evalúa primero, si el NSE se relaciona con lenguaje, luego si el NSE se relaciona con el conocimiento cívico y, posteriormente, si es que el efecto de NSE sobre conocimiento cívico es controlado por la comprensión lectora, repitiendo este proceso en ambos niveles. En la siguiente tabla el nombre de la columna indica la variable dependiente. 
 
 
-```{r echo=FALSE, fig.cap="Mediaciónmultinivel", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, tab.cap="Mediaciónmultinivel", fig.align = 'center', out.width = '80%'}
 knitr::include_graphics(path = "images/Mediacion_n1n2.png")
 ```
 

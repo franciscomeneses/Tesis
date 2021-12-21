@@ -2,11 +2,15 @@
 title: 'Desigualdad, política y lenguaje: El rol del manejo del lenguaje en la transmisión intergeneracional de las habilidades políticas en jóvenes chilenos'
 subtitle: "Tesis para optar al grado de Magister"
 author: "Francisco Javier Meneses Rivas"
-date: "15 de Enero del 2021" # o para fecha actual: "`r Sys.Date()`"
+date: "`r Sys.Date()`" # o para fecha actual: "`r Sys.Date()`"
 institution: "Universidad de Chile"
-degree: "Diseño de investigación - Carrera de Sociología"
-advisor: "Profesor/a guía: Juan Carlos Castillo"
-bibliography: [tesis.bib, Lenguaje_y_Conocimiento_civico.bib]
+degree: "Tesis de Grado - Magister en Ciencias Sociales con Mencion en Sociología de la Modernización"
+advisor: "Profesor guía: Juan carlos Castillo/ Profesor de Taller Felipe Ruiz"
+bibliography: 
+    - tesis.bib
+    - civiclengu.bib
+    - comprencioncivica.bib
+    - concivcomleng.bib
 biblio-style: apalike
 link-citations: yes
 site: bookdown::bookdown_site
@@ -19,8 +23,19 @@ lot: True
 ---
 
 
+
 # Resumen {-}
 
-Actualmente las democracias se encuentran frente a crisis de legitimidad que se relacionan, entre otras cosas, con la falta de representación de distintos grupos, como los sectores populares y los jóvenes. Al respecto, las investigaciones han señalado que no solo existen diferencias actitudinales hacia la política según grupo social, sino que también existen brechas en las habilidades políticas que se relacionan con la participación desigual. La asociación internacional para la evaluación del logro educativo (IEA) ha desarrollado el Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS) que se enfoca en estudiar las Habilidades y Conocimientos necesarios para la vida ciudadana en jóvenes estudiantes. El conocimiento cívico de la ICCS ha generado interés en distintos investigadores puesto que se asocia positivamente con un conjunto de actitudes democráticas como la participación y la tolerancia. Se ha demostrado que existe una relación entre nivel socioeconómico y conocimiento Cívico. Al explicar esta desigualdad algunos autores han señalado que en familias de alto capital cultural se genera un ambiente más ciudadano y académico, que implica una socialización en valores políticos y habilidades cognitivas. Para profundizar esta línea de investigación, se propone que parte de lo que explica la relación entre desigualdad social y conocimiento cívico es el manejo del lenguaje. Para evaluar esta hipótesis se trabajaron conjuntamente los datos de la ICCS y el SIMCE (N = 3140). A partir de los análisis de mediación multinivel, se concluye que la transmisión intergeneracional de la desigualdad política se explica más por habilidades en el lenguaje que por la transmisión de intereses políticos. Además, se evidencia el potencial del lenguaje para disminuir la desigualdad de habilidades políticas, lo cual puede ser provechoso para la implementación del ramo de formación ciudadana.
+Actualmente las democracias se encuentran frente a una  crisis de legitimidad que se relaciona, entre otras cosas, con la falta de representación de distintos grupos, como los sectores populares y los jóvenes. Al respecto, las investigaciones han señalado que no solo existen diferencias actitudinales hacia la política según grupo social, sino que también existen brechas en las habilidades políticas que se relacionan con la participación desigual. La asociación internacional para la evaluación del logro educativo (IEA) ha desarrollado el Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS) que se enfoca en estudiar las Habilidades y Conocimientos necesarios para la vida ciudadana en jóvenes estudiantes. El conocimiento cívico de la ICCS ha generado interés en distintos investigadores puesto que se asocia positivamente con un conjunto de actitudes democráticas como la participación y la tolerancia. Se ha demostrado que existe una relación entre nivel socioeconómico y conocimiento Cívico. Al explicar esta desigualdad algunos autores han señalado que en familias de alto capital cultural se genera un ambiente más ciudadano y académico, que implica una socialización en valores políticos y habilidades cognitivas. Para profundizar esta línea de investigación, se propone que parte de lo que explica la relación entre desigualdad social y conocimiento cívico es el manejo del lenguaje. Para evaluar esta hipótesis se trabajaron conjuntamente los datos de la ICCS y el SIMCE (N = 3140). A partir de los análisis de mediación multinivel, se concluye que la transmisión intergeneracional de la desigualdad política se explica más por habilidades en el lenguaje que por la transmisión de intereses políticos. Además, se evidencia el potencial del lenguaje para disminuir la desigualdad de habilidades políticas, lo cual puede ser provechoso para la implementación del ramo de formación ciudadana.
 
 Palabras clave: Conocimiento Cívico, Desigualdad política, Comprensión lectora, Interés político
+
+
+# Agradecimientos {-}
+
+Deseo profundamente poder agradecer en estas páginas a más de las personas de las que caben en ellas. Por lo pronto, es menester agradecer a mis padres que con su esfuerzo pudieron educarme y darme con ello mejores posibilidades de vida. 
+Agradecer directamente a mi pareja Anais Herrera junto con quien desperté el interés por la sociología y junto a quien he tenido las reflexiones que han dado vida a esta tesis.
+
+También quiero agradecer muy sinceramente al profesor Juan Carlos Castillo quien me ha ayudado a profesionalizarme en estos últimos años. En la misma línea quisiera agradecer a Felipe Ruiz que fue el primero en dedicarse a enseñarme el uso del Software R el cual ha sido mi herramienta fundamental de trabajo. Finalmente deseo agradecer a Julio Iturra como mi primer colega de trabajo de quién aprendido muchas cosas prácticas que no se incorporaron en mi formación universitaria.
+
+Fuera de lo personal deseo agradecer a todas las personas y científicos que han contribuido a la construcción colectiva del conocimiento. Agradecer especialmente a quienes en consonancia con la ciencia abierta han compartido sus conocimientos ayudándome progresar. Entre ellos agradezco especialmente a Yihui Xie quien ha democratizado múltiples herramientas digitales, haciéndolas más fáciles de usar sin la necesidad de ser un genio de la programación.

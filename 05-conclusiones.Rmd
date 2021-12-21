@@ -12,7 +12,7 @@ En tercer lugar, gracias a la evidencia, podemos señalar que la comprensión le
 
 Dados los resultados, y el rol prominente de la comprensión lectora en el conocimiento Cívico, se hace necesario revisar algunas propuestas que intentan explicar el conocimiento Cívico, puesto que pueden caer en resultados espurios al no considerar una variable relevante dentro de sus modelos. 
 
-En términos teóricos esta investigación ayuda a profundizar la comprensión de la reproducción social de la desigualdad politica, como @bradyPoliticalMobilityPolitical2015 sugerían necesario para avanzar en este campo. Estos resultados evidencias que las diferencias sociales en habilidades políticas, no se deben tanto a la transmisión de valores democráticos, como a la transmisión de habilidades relacionadas con el manejo del lenguaje. 
+En términos teóricos esta investigación ayuda a profundizar la comprensión de la reproducción social de la desigualdad politica, como @brady_Political_2015 sugerían necesario para avanzar en este campo. Estos resultados evidencias que las diferencias sociales en habilidades políticas, no se deben tanto a la transmisión de valores democráticos, como a la transmisión de habilidades relacionadas con el manejo del lenguaje. 
 
 Igualmente, se hace necesario profundizar hasta qué punto la comprensión lectora es necesaria para la vida política o más bien es un problema de error de medida, en el cual se incorpora varianza no deseada a la escala. En consideracion de lo anterior, es posible que, al generar instrumentos con menores niveles de abstracción en la redacción de las situaciones y preguntas, se generen menores diferencias de conocimiento Cívico entre distintos grupos sociales. 
 
