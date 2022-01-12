@@ -2,10 +2,10 @@
 title: 'Desigualdad, política y lenguaje: El rol del manejo del lenguaje en la transmisión intergeneracional de las habilidades políticas en jóvenes chilenos'
 subtitle: "Tesis para optar al grado de Magister"
 author: "Francisco Javier Meneses Rivas"
-date: "`r Sys.Date()`" # o para fecha actual: "`r Sys.Date()`"
+date: "Santiago de Chile, año 2022" # o para fecha actual: "`r Sys.Date()`"
 institution: "Universidad de Chile"
-degree: "Tesis de Grado - Magister en Ciencias Sociales con Mencion en Sociología de la Modernización"
-advisor: "Profesor guía: Juan carlos Castillo/ Profesor de Taller Felipe Ruiz"
+degree: "Tesis para optar al grado de Magister en Ciencias Sociales"
+advisor: "Profesor guía \n Juan Carlos Castillo"
 bibliography: 
     - tesis.bib
     - civiclengu.bib
@@ -16,7 +16,7 @@ link-citations: yes
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-fontsize: 14pt
+fontsize: 12pt
 lof: True
 lot: True
 

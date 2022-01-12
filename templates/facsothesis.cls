@@ -114,6 +114,11 @@
 %	\fancyhead[LO]{\scshape \rightmark} %  And so will the LEFT headers
   \pagestyle{fancy}
 
+
+
+
+
+
 % Psych majors: You do not need the following six lines, as it conflicts with apacite, so comment them out.
 %\let\oldthebibliography=\thebibliography
 %\let\endoldthebibliography=\endthebibliography
@@ -139,6 +144,8 @@
 		    \global\@topnum\z@
 		    \@afterindentfalse
 		    \secdef\@chapter\@schapter}
+		    
+
 
 % Stolen from book.cls PBC 5/12/05
 % Using this to actually show "Chapter 1" in TOC instead of "1"
@@ -173,13 +180,18 @@
 \renewcommand{\cleardoublepage}{\RTcleardoublepage}
 
 % adjust margins for binding  (changed 2007-04-24 tgp)
-\setlength{\oddsidemargin}{.5in}
-\setlength{\evensidemargin}{0in}
+
+
+\setlength{\oddsidemargin}{1cm}
+\setlength{\evensidemargin}{1cm}
 \setlength{\textwidth}{6.0in}
-\setlength{\textheight}{9.0in}
-\setlength\topmargin{0in}
+\setlength{\textheight}{7.0in}
+\setlength{\marginparwidth}{-1cm}
+\setlength\topmargin{1cm}
 \addtolength\topmargin{-\headheight}
 \addtolength\topmargin{-\headsep}
+\renewcommand{\baselinestretch}{1.5} 
+
 
 %\setlength{\oddsidemargin}{.6in}
 %\setlength{\evensidemargin}{0in}
@@ -295,7 +307,7 @@
   \setbox0=\hbox{of the Requirements for the Degree}
 
   \begin{center}
-   \includegraphics[scale=0.25]{images/facso.png}
+   \includegraphics[scale=0.40]{images/facso.png}
     \setcounter{page}{1}
     \null\vfil
     \begin{Large}
@@ -306,9 +318,9 @@
     \vfil
     \textbf{\@author}
     \vfil
-    \centerline{\hbox to \wd0 {\hbox{}\hrulefill\hbox{}}}
+    %\centerline{\hbox to \wd0 {\hbox{}\hrulefill\hbox{}}}
     \vfil
-    \@advisor
+    \rightline{\@advisor}
     \vfil
     \@date
     \vfil
