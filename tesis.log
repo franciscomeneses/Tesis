@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.6)  12 JAN 2022 09:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.13)  18 FEB 2022 02:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **tesis.tex
 (./tesis.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2021-11-22> (./templates/facsothesis.cls
+L3 programming layer <2022-01-12> (./templates/facsothesis.cls
 Document Class: templates/facsothesis 2004/01/27 The Reed College Thesis Class
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
@@ -16,15 +16,15 @@ Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
 /bk12.clo
 File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@chapter=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -52,11 +52,11 @@ hics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\FV@CodeLineNo=\count192
+\FV@CodeLineNo=\count194
 \FV@InFile=\read2
 \FV@TabBox=\box50
-\c@FancyVerbLine=\count193
-\FV@StepNumber=\count194
+\c@FancyVerbLine=\count195
+\FV@StepNumber=\count196
 \FV@OutFile=\write3
 )
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/if
@@ -118,20 +118,20 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
 bel/babel.sty
 Package: babel 2021/12/30 3.69 The Babel package
-\babel@savecnt=\count195
+\babel@savecnt=\count197
 \U@D=\dimen143
 \l@unhyphenated=\language4
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
 bel/txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count196
+\bbl@dirlevel=\count198
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
 bel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks19
-\es@quotdepth=\count197
+\es@quotdepth=\count199
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -190,13 +190,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count198
+\inf@bad=\count266
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count199
-\leftroot@=\count266
+\uproot@=\count267
+\leftroot@=\count268
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count267
-\DOTSCASE@=\count268
+\classnum@=\count269
+\DOTSCASE@=\count270
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -205,15 +205,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen148
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count269
-\c@MaxMatrixCols=\count270
+\macc@depth=\count271
+\c@MaxMatrixCols=\count272
 \dotsspace@=\muskip16
-\c@parentequation=\count271
-\dspbrk@lvl=\count272
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
 \tag@help=\toks21
-\row@=\count273
-\column@=\count274
-\maxfields@=\count275
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
 \andhelp@=\toks22
 \eqnshift@=\dimen149
 \alignsep@=\dimen150
@@ -261,17 +261,17 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTright=\skip66
 \LTpre=\skip67
 \LTpost=\skip68
-\LTchunksize=\count276
+\LTchunksize=\count278
 \LTcapwidth=\dimen155
 \LT@head=\box53
 \LT@firsthead=\box54
 \LT@foot=\box55
 \LT@lastfoot=\box56
 \LT@gbox=\box57
-\LT@cols=\count277
-\LT@rows=\count278
-\c@LT@tables=\count279
-\c@LT@chunks=\count280
+\LT@cols=\count279
+\LT@rows=\count280
+\c@LT@tables=\count281
+\c@LT@chunks=\count282
 \LT@p@ftn=\toks31
 )
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/book
@@ -287,12 +287,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen163
 \cmidrulekern=\dimen164
 \defaultaddspace=\dimen165
-\@cmidla=\count281
-\@cmidlb=\count282
+\@cmidla=\count283
+\@cmidlb=\count284
 \@aboverulesep=\dimen166
 \@belowrulesep=\dimen167
-\@thisruleclass=\count283
-\@lastruleclass=\count284
+\@thisruleclass=\count285
+\@lastruleclass=\count286
 \@thisrulewidth=\dimen168
 )
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sets
@@ -358,8 +358,8 @@ tions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen169
-\Hy@linkcounter=\count285
-\Hy@pagecounter=\count286
+\Hy@linkcounter=\count287
+\Hy@pagecounter=\count288
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
 rref/pd1enc.def
@@ -380,7 +380,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 excmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count287
+\Hy@SavedSpaceFactor=\count289
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
 rref/puenc.def
@@ -396,7 +396,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count288
+\c@Hy@tempcnt=\count290
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen170
 
@@ -409,7 +409,7 @@ gintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count289
+\Fld@menulength=\count291
 \Field@Width=\dimen171
 \Fld@charsize=\dimen172
 Package hyperref Info: Hyper figures OFF on input line 6076.
@@ -427,9 +427,9 @@ LaTeX Info: Redefining \pageref on input line 6150.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count290
-\c@Item=\count291
-\c@Hfootnote=\count292
+\Hy@abspage=\count292
+\c@Item=\count293
+\c@Hfootnote=\count294
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -443,8 +443,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count293
-\c@bookmark@seq@number=\count294
+\Fld@listcount=\count295
+\c@bookmark@seq@number=\count296
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/reru
 nfilecheck/rerunfilecheck.sty
@@ -498,7 +498,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/floa
 t/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count295
+\c@float@type=\count297
 \float@exts=\toks32
 \float@box=\box58
 \@float@everytoks=\toks33
@@ -512,7 +512,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 /ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count296
+\c@r@tfl@t=\count298
 \rotFPtop=\skip70
 \rotFPbot=\skip71
 \rot@float@box=\box60
@@ -528,7 +528,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip72
 \bibsep=\skip73
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count297
+\c@NAT@ctr=\count299
 )
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/capt
 ion/caption.sty
@@ -546,8 +546,8 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \caption@hangindent=\dimen179
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count298
-\c@continuedfloat=\count299
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -567,8 +567,8 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3ba
 ckend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
 \l__pdf_internal_box=\box61
 ) (./tesis.aux
 LaTeX Info: Redefining \. on input line 26.
@@ -622,7 +622,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ttitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count301
+\c@section@level=\count303
 )
 LaTeX Info: Redefining \ref on input line 164.
 LaTeX Info: Redefining \pageref on input line 164.
@@ -1091,114 +1091,126 @@ File: images/scater.png Graphic file (type png)
 <use images/scater.png>
 Package pdftex.def Info: images/scater.png  used on input line 826.
 (pdftex.def)             Requested size: 346.89731pt x 173.38474pt.
-<images/barpot.png, id=960, 738.50906pt x 364.36125pt>
-File: images/barpot.png Graphic file (type png)
-<use images/barpot.png>
-Package pdftex.def Info: images/barpot.png  used on input line 837.
-(pdftex.def)             Requested size: 346.89731pt x 171.14973pt.
-LaTeX Info: Redefining \. on input line 845.
-LaTeX Info: Redefining \% on input line 845.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
+35.
+
+(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t
+1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<images/graficobivariadocategorico.png, id=960, 578.16pt x 361.35pt>
+File: images/graficobivariadocategorico.png Graphic file (type png)
+<use images/graficobivariadocategorico.png>
+Package pdftex.def Info: images/graficobivariadocategorico.png  used on input l
+ine 841.
+(pdftex.def)             Requested size: 346.89731pt x 216.81168pt.
+LaTeX Info: Redefining \. on input line 849.
+LaTeX Info: Redefining \% on input line 849.
 [78 <./images/scater.png>]
-LaTeX Info: Redefining \. on input line 847.
-LaTeX Info: Redefining \% on input line 847.
-[79 <./images/barpot.png>]
-LaTeX Info: Redefining \. on input line 853.
-LaTeX Info: Redefining \% on input line 853.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 850.
+LaTeX Info: Redefining \% on input line 850.
+[79 <./images/graficobivariadocategorico.png>]
+LaTeX Info: Redefining \. on input line 855.
+LaTeX Info: Redefining \% on input line 855.
 [80]
-LaTeX Info: Redefining \. on input line 863.
-LaTeX Info: Redefining \% on input line 863.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 867.
+LaTeX Info: Redefining \% on input line 867.
 [81]
-<images/iccplot.png, id=982, 505.89pt x 505.89pt>
+<images/iccplot.png, id=981, 505.89pt x 505.89pt>
 File: images/iccplot.png Graphic file (type png)
 <use images/iccplot.png>
-Package pdftex.def Info: images/iccplot.png  used on input line 866.
+Package pdftex.def Info: images/iccplot.png  used on input line 870.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
-LaTeX Info: Redefining \. on input line 873.
-LaTeX Info: Redefining \% on input line 873.
+LaTeX Info: Redefining \. on input line 877.
+LaTeX Info: Redefining \% on input line 877.
 [82 <./images/iccplot.png>]
-<images/regmultinivel.png, id=988, 496.85625pt x 566.115pt>
+<images/regmultinivel.png, id=989, 496.85625pt x 566.115pt>
 File: images/regmultinivel.png Graphic file (type png)
 <use images/regmultinivel.png>
-Package pdftex.def Info: images/regmultinivel.png  used on input line 880.
+Package pdftex.def Info: images/regmultinivel.png  used on input line 884.
 (pdftex.def)             Requested size: 520.34267pt x 592.91797pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 880--880
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 884--884
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 880.
-LaTeX Info: Redefining \% on input line 880.
+LaTeX Info: Redefining \. on input line 884.
+LaTeX Info: Redefining \% on input line 884.
 [83]
 Overfull \vbox (87.02797pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 880.
-LaTeX Info: Redefining \% on input line 880.
+LaTeX Info: Redefining \. on input line 884.
+LaTeX Info: Redefining \% on input line 884.
 [84 <./images/regmultinivel.png>]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 886.
-LaTeX Info: Redefining \% on input line 886.
+LaTeX Info: Redefining \. on input line 890.
+LaTeX Info: Redefining \% on input line 890.
 [85]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 889.
-LaTeX Info: Redefining \% on input line 889.
+LaTeX Info: Redefining \. on input line 893.
+LaTeX Info: Redefining \% on input line 893.
 [86]
-<images/inter2.png, id=1008, 634.16925pt x 310.761pt>
+<images/inter2.png, id=1009, 634.16925pt x 310.761pt>
 File: images/inter2.png Graphic file (type png)
 <use images/inter2.png>
-Package pdftex.def Info: images/inter2.png  used on input line 894.
+Package pdftex.def Info: images/inter2.png  used on input line 898.
 (pdftex.def)             Requested size: 520.34267pt x 254.99637pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 894--895
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 898--899
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 902.
-LaTeX Info: Redefining \% on input line 902.
+LaTeX Info: Redefining \. on input line 906.
+LaTeX Info: Redefining \% on input line 906.
 [87]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 902.
-LaTeX Info: Redefining \% on input line 902.
+LaTeX Info: Redefining \. on input line 906.
+LaTeX Info: Redefining \% on input line 906.
 [88 <./images/inter2.png>]
-<images/Mediacion_n1n2.png, id=1018, 566.115pt x 551.05875pt>
+<images/Mediacion_n1n2.png, id=1019, 566.115pt x 551.05875pt>
 File: images/Mediacion_n1n2.png Graphic file (type png)
 <use images/Mediacion_n1n2.png>
-Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 910.
+Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 914.
 (pdftex.def)             Requested size: 346.89731pt x 337.67567pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 910.
-LaTeX Info: Redefining \% on input line 910.
+LaTeX Info: Redefining \. on input line 914.
+LaTeX Info: Redefining \% on input line 914.
 [89]
-LaTeX Info: Redefining \. on input line 913.
-LaTeX Info: Redefining \% on input line 913.
-[90 <./images/Mediacion_n1n2.png>]
 LaTeX Info: Redefining \. on input line 917.
 LaTeX Info: Redefining \% on input line 917.
+[90 <./images/Mediacion_n1n2.png>]
+LaTeX Info: Redefining \. on input line 921.
+LaTeX Info: Redefining \% on input line 921.
 [91] [92
 
 ]
 Cap\'{\i }tulo 5.
 [93]
-LaTeX Info: Redefining \. on input line 933.
-LaTeX Info: Redefining \% on input line 933.
+LaTeX Info: Redefining \. on input line 937.
+LaTeX Info: Redefining \% on input line 937.
 [94]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 937.
-LaTeX Info: Redefining \% on input line 937.
-[95]
 LaTeX Info: Redefining \. on input line 941.
 LaTeX Info: Redefining \% on input line 941.
+[95]
+LaTeX Info: Redefining \. on input line 945.
+LaTeX Info: Redefining \% on input line 945.
 [96] (./tesis.bbl [97
 
 ] [98
@@ -1228,8 +1240,8 @@ LaTeX Info: Redefining \% on input line 383.
 LaTeX Info: Redefining \. on input line 435.
 LaTeX Info: Redefining \% on input line 435.
 [107])
-LaTeX Info: Redefining \. on input line 961.
-LaTeX Info: Redefining \% on input line 961.
+LaTeX Info: Redefining \. on input line 965.
+LaTeX Info: Redefining \% on input line 965.
 [108] (./tesis.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
@@ -1238,18 +1250,18 @@ Package rerunfilecheck Info: File `tesis.out' has not changed.
 (rerunfilecheck)             Checksum: 9CC6108449D8D3273B55B23A7324E61B;3502.
  ) 
 Here is how much of TeX's memory you used:
- 14615 strings out of 480295
- 248376 string characters out of 5893522
- 529633 words of memory out of 5000000
- 31925 multiletter control sequences out of 15000+600000
- 454737 words of font info for 61 fonts, out of 8000000 for 9000
+ 14657 strings out of 480228
+ 249316 string characters out of 5892220
+ 522582 words of memory out of 5000000
+ 32033 multiletter control sequences out of 15000+600000
+ 520884 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,12n,69p,2292b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texm
-f-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Francisco Meneses R/AppData/R
-oaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/Francisco Mene
-ses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users
+ips/lm/lm-ec.enc}{c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-di
+st/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/Francisco Meneses R/AppData/Roami
+ng/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Francisco Mene
+ses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users
 /Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-t
 s1.enc}<c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/t
 ype1/public/lm/lmbx12.pfb><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX
@@ -1262,11 +1274,12 @@ dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/Francisco Meneses R/AppData/Roami
 ng/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/Francisco Mene
 ses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/U
 sers/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/
-lm/lmsy10.pfb>
-Output written on tesis.pdf (116 pages, 1236156 bytes).
+lm/lmsy10.pfb><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/
+fonts/type1/public/lm/lmtt12.pfb>
+Output written on tesis.pdf (116 pages, 1284041 bytes).
 PDF statistics:
- 1232 PDF objects out of 1440 (max. 8388607)
- 1059 compressed objects within 11 object streams
+ 1237 PDF objects out of 1440 (max. 8388607)
+ 1062 compressed objects within 11 object streams
  303 named destinations out of 1000 (max. 500000)
  244 words of extra memory for PDF output out of 10000 (max. 10000000)
 

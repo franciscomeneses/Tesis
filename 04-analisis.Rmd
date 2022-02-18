@@ -41,8 +41,52 @@ knitr::include_graphics(path = "images/scater.png")
 Como puede verse la relación es igualmente positiva aunque, en relación a lo internacional, disminuye la intensidad De todos modos, se puede apreciar en base a la correlación de pearson una relación de alta intensidad según los parámetros de Cohen ($r= .66$).
 
 
+
+```{r  echo=FALSE}
+
+load(file = "input/data/proc/data.RData")
+
+pacman::p_load(lme4,
+               reghelper,
+               haven,
+               descr,
+               stargazer,
+               ggplot2, # gr?ficos
+               dplyr, # manipulacion de datos
+               texreg, # tablas lme4
+               hrbrthemes,
+               sjPlot #graficos
+)
+
+
+
+# Preparar lenguaje en tramos de desempeño
+
+data=data %>% mutate(pleng_rang=case_when(p.leng<=215~"a. Insuficiente",p.leng>=265~"c. Adecuado",p.leng<=265 & p.leng>=215~"b. Elemental"))
+
+
+
+# Preparar c.civico en tramos de desempeño 
+data=data %>% mutate(pciv_rang=case_when(
+             p.civ<=395~"a. Insuficiente",
+             p.civ>=395 & p.civ<=478  ~"b. Conoce",
+             p.civ>=478 & p.civ<=563  ~"c. Comprende",
+             p.civ>=563 ~ "d. Evalua"))
+
+
+
+# Grafico
+graficobivariadocategorico = data %>% group_by(pleng_rang,pciv_rang) %>% summarise(n=n()) %>% mutate(freq = round((n / sum(n))*100,2) ) %>% ggplot(aes(x=pleng_rang, y = freq, fill=pciv_rang)) + scale_fill_brewer(palette="YlOrBr",direction=-1, name="Nivel de \nConocimiento Civico") + geom_bar(stat = "identity")+ ggtitle("Habilidades civicas según desempeño en lectura") + xlab("Nivel de comprensión lectora") + ylab("Porcentaje") + ylim(0,100)
+
+
+ggplot2::ggsave(graficobivariadocategorico, file="images/graficobivariadocategorico.png", width=8,height=5)
+
+```
+
+
+
 ```{r echo=FALSE, fig.cap="Niveles de conocimiento civico según comprensión lectora", fig.align = 'center', out.width = '80%'}
-knitr::include_graphics(path = "images/barpot.png")
+knitr::include_graphics(path = "images/graficobivariadocategorico.png")
 ```
 
 El grafico de la figura numero 9.5, resulta sumamente ilustrativo del punto que busca señalar esta tesis. Para entender el grafico debemos comprender que se esta graficando la relación entre los niveles de conocimiento cívico y los niveles de manejo del lenguaje. Los niveles de manejo del lenguaje se clasifican en insuficiente, elemental y adecuado, mientras que los niveles de conocimiento cívico no refieren a que tan aceptable son los resultados, sino hasta que habilidad logran desarrollar los estudiantes en la prueba de formación ciudadana. Como se mencionó anteriormente para responder bien la prueba de cívica no solo es necesario poseer un amplio conocimiento de memoria sobre asuntos cívicos y ciudadanos. Más bien es necesario tener habilidades para poder interpretar situaciones políticas. Al respecto la habilidad más compleja es la de evaluar, la cual puede comprenderse según los evaluadores como dar cuenta de la postura de un enunciado o evaluar críticamente su pertinencia en determinada situación. Analicemos minuciosamente la distribución de cada uno de los conjuntos de barras.
