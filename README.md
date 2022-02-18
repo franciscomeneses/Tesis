@@ -1,7 +1,7 @@
 # tesisfacsodown
 
 
-[https://franciscomeneses.github.io/Tesis/docs/tesis.html](https://franciscomeneses.github.io/Tesis/docs/index.html)
+[https://franciscomeneses.github.io/Tesis/](https://franciscomeneses.github.io/Tesis/)
 
 
 Plantilla (template) para escritura y publicación de tesis/seminarios/memorias en FACSO UChile en formato pdf/html vía bookdown  (R)
