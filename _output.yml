@@ -1,13 +1,15 @@
-bookdown::gitbook:
+bookdown::gitbook:	
   css: style.css
   split_by: section
   config:
     toc:
       before: |
-        <li><a href="./">tesisfacsodown</a></li>
+        <li><a href="./"> <span style="color: #D88712;"> <p><strong> Desigualdad, politica y lenguaje </strong></p> </span> </a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
+    fontsettings:
+      theme: sepia
     sharing:
       github: yes
       facebook: no

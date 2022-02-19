@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.13)  18 FEB 2022 02:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.13)  19 FEB 2022 02:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,7 +704,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 onts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \vbox (badness 2005) has occurred while \output is active []
+Underfull \vbox (badness 1824) has occurred while \output is active []
 
 [1
 
@@ -786,474 +786,484 @@ Cap\'{\i }tulo 2.
 [13
 
 ]
-LaTeX Info: Redefining \. on input line 275.
-LaTeX Info: Redefining \% on input line 275.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 270.
+LaTeX Info: Redefining \% on input line 270.
 [14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 282.
 LaTeX Info: Redefining \% on input line 282.
 [15]
-LaTeX Info: Redefining \. on input line 287.
-LaTeX Info: Redefining \% on input line 287.
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 286.
+LaTeX Info: Redefining \% on input line 286.
 [16]
-LaTeX Info: Redefining \. on input line 295.
-LaTeX Info: Redefining \% on input line 295.
+LaTeX Info: Redefining \. on input line 294.
+LaTeX Info: Redefining \% on input line 294.
 [17]
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+[18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 299.
-LaTeX Info: Redefining \% on input line 299.
-[18]
-LaTeX Info: Redefining \. on input line 308.
-LaTeX Info: Redefining \% on input line 308.
+LaTeX Info: Redefining \. on input line 305.
+LaTeX Info: Redefining \% on input line 305.
 [19]
 LaTeX Info: Redefining \. on input line 315.
 LaTeX Info: Redefining \% on input line 315.
 [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 319.
-LaTeX Info: Redefining \% on input line 319.
+LaTeX Info: Redefining \. on input line 322.
+LaTeX Info: Redefining \% on input line 322.
 [21]
-LaTeX Info: Redefining \. on input line 327.
-LaTeX Info: Redefining \% on input line 327.
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
 [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 332.
-LaTeX Info: Redefining \% on input line 332.
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
 [23]
-LaTeX Info: Redefining \. on input line 341.
-LaTeX Info: Redefining \% on input line 341.
+LaTeX Info: Redefining \. on input line 342.
+LaTeX Info: Redefining \% on input line 342.
 [24]
-LaTeX Info: Redefining \. on input line 350.
-LaTeX Info: Redefining \% on input line 350.
-[25]
-LaTeX Info: Redefining \. on input line 357.
-LaTeX Info: Redefining \% on input line 357.
-[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 361.
-LaTeX Info: Redefining \% on input line 361.
+LaTeX Info: Redefining \. on input line 348.
+LaTeX Info: Redefining \% on input line 348.
+[25]
+LaTeX Info: Redefining \. on input line 355.
+LaTeX Info: Redefining \% on input line 355.
+[26]
+LaTeX Info: Redefining \. on input line 364.
+LaTeX Info: Redefining \% on input line 364.
 [27]
-LaTeX Info: Redefining \. on input line 369.
-LaTeX Info: Redefining \% on input line 369.
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
 [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \. on input line 375.
 LaTeX Info: Redefining \% on input line 375.
 [29]
-LaTeX Info: Redefining \. on input line 381.
-LaTeX Info: Redefining \% on input line 381.
+LaTeX Info: Redefining \. on input line 384.
+LaTeX Info: Redefining \% on input line 384.
 [30]
-LaTeX Info: Redefining \. on input line 391.
-LaTeX Info: Redefining \% on input line 391.
+LaTeX Info: Redefining \. on input line 390.
+LaTeX Info: Redefining \% on input line 390.
 [31]
-LaTeX Info: Redefining \. on input line 397.
-LaTeX Info: Redefining \% on input line 397.
+LaTeX Info: Redefining \. on input line 398.
+LaTeX Info: Redefining \% on input line 398.
 [32]
-LaTeX Info: Redefining \. on input line 408.
-LaTeX Info: Redefining \% on input line 408.
+LaTeX Info: Redefining \. on input line 407.
+LaTeX Info: Redefining \% on input line 407.
 [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 412.
-LaTeX Info: Redefining \% on input line 412.
+LaTeX Info: Redefining \. on input line 413.
+LaTeX Info: Redefining \% on input line 413.
 [34]
+LaTeX Info: Redefining \. on input line 422.
+LaTeX Info: Redefining \% on input line 422.
+[35]
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+[36]
+LaTeX Info: Redefining \. on input line 433.
+LaTeX Info: Redefining \% on input line 433.
+[37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 419.
-LaTeX Info: Redefining \% on input line 419.
-[35]
-LaTeX Info: Redefining \. on input line 423.
-LaTeX Info: Redefining \% on input line 423.
-[36]
-LaTeX Info: Redefining \. on input line 430.
-LaTeX Info: Redefining \% on input line 430.
-[37]
-Underfull \vbox (badness 2970) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 432.
-LaTeX Info: Redefining \% on input line 432.
+LaTeX Info: Redefining \. on input line 440.
+LaTeX Info: Redefining \% on input line 440.
 [38]
-LaTeX Info: Redefining \. on input line 441.
-LaTeX Info: Redefining \% on input line 441.
+LaTeX Info: Redefining \. on input line 442.
+LaTeX Info: Redefining \% on input line 442.
 [39]
-LaTeX Info: Redefining \. on input line 447.
-LaTeX Info: Redefining \% on input line 447.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 450.
+LaTeX Info: Redefining \% on input line 450.
 [40]
+LaTeX Info: Redefining \. on input line 454.
+LaTeX Info: Redefining \% on input line 454.
+[41]
+LaTeX Info: Redefining \. on input line 459.
+LaTeX Info: Redefining \% on input line 459.
+[42]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 449.
-LaTeX Info: Redefining \% on input line 449.
-[41]
-<images/Contenidos.png, id=633, 561.59813pt x 483.30562pt>
+LaTeX Info: Redefining \. on input line 462.
+LaTeX Info: Redefining \% on input line 462.
+[43]
+<images/Contenidos.png, id=646, 561.59813pt x 483.30562pt>
 File: images/Contenidos.png Graphic file (type png)
 <use images/Contenidos.png>
-Package pdftex.def Info: images/Contenidos.png  used on input line 452.
+Package pdftex.def Info: images/Contenidos.png  used on input line 464.
 (pdftex.def)             Requested size: 346.89731pt x 298.53282pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 452.
-LaTeX Info: Redefining \% on input line 452.
-[42]
-LaTeX Info: Redefining \. on input line 455.
-LaTeX Info: Redefining \% on input line 455.
-[43 <./images/Contenidos.png>]
-<images/Pregunta-liberada1.png, id=647, 408.77719pt x 516.42938pt>
+LaTeX Info: Redefining \. on input line 464.
+LaTeX Info: Redefining \% on input line 464.
+[44]
+LaTeX Info: Redefining \. on input line 467.
+LaTeX Info: Redefining \% on input line 467.
+[45 <./images/Contenidos.png>]
+<images/Pregunta-liberada1.png, id=658, 408.77719pt x 516.42938pt>
 File: images/Pregunta-liberada1.png Graphic file (type png)
 <use images/Pregunta-liberada1.png>
-Package pdftex.def Info: images/Pregunta-liberada1.png  used on input line 458.
+Package pdftex.def Info: images/Pregunta-liberada1.png  used on input line 470.
 
 (pdftex.def)             Requested size: 346.89731pt x 438.27359pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 473.
-LaTeX Info: Redefining \% on input line 473.
-[44]
+LaTeX Info: Redefining \. on input line 485.
+LaTeX Info: Redefining \% on input line 485.
+[46]
 
-LaTeX Warning: Text page 45 contains only floats.
+LaTeX Warning: Text page 47 contains only floats.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 473.
-LaTeX Info: Redefining \% on input line 473.
-[45 <./images/Pregunta-liberada1.png>]
-LaTeX Info: Redefining \. on input line 477.
-LaTeX Info: Redefining \% on input line 477.
-[46]
-Underfull \vbox (badness 2970) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 484.
-LaTeX Info: Redefining \% on input line 484.
-[47]
-LaTeX Info: Redefining \. on input line 493.
-LaTeX Info: Redefining \% on input line 493.
+LaTeX Info: Redefining \. on input line 485.
+LaTeX Info: Redefining \% on input line 485.
+[47 <./images/Pregunta-liberada1.png>]
+LaTeX Info: Redefining \. on input line 489.
+LaTeX Info: Redefining \% on input line 489.
 [48]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 495.
-LaTeX Info: Redefining \% on input line 495.
+LaTeX Info: Redefining \. on input line 496.
+LaTeX Info: Redefining \% on input line 496.
 [49]
+LaTeX Info: Redefining \. on input line 505.
+LaTeX Info: Redefining \% on input line 505.
+[50]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 499.
-LaTeX Info: Redefining \% on input line 499.
-[50]
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
+LaTeX Info: Redefining \. on input line 507.
+LaTeX Info: Redefining \% on input line 507.
 [51]
-<images/modelo.png, id=756, 722.7pt x 313.17pt>
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 511.
+LaTeX Info: Redefining \% on input line 511.
+[52]
+LaTeX Info: Redefining \. on input line 518.
+LaTeX Info: Redefining \% on input line 518.
+[53]
+<images/modelo.png, id=768, 722.7pt x 313.17pt>
 File: images/modelo.png Graphic file (type png)
 <use images/modelo.png>
-Package pdftex.def Info: images/modelo.png  used on input line 523.
+Package pdftex.def Info: images/modelo.png  used on input line 535.
 (pdftex.def)             Requested size: 411.93767pt x 178.50874pt.
-LaTeX Info: Redefining \. on input line 531.
-LaTeX Info: Redefining \% on input line 531.
-[52]
-LaTeX Info: Redefining \. on input line 539.
-LaTeX Info: Redefining \% on input line 539.
-[53 <./images/modelo.PNG>] [54
+LaTeX Info: Redefining \. on input line 543.
+LaTeX Info: Redefining \% on input line 543.
+[54]
+LaTeX Info: Redefining \. on input line 551.
+LaTeX Info: Redefining \% on input line 551.
+[55 <./images/modelo.PNG>] [56
 
 ]
 Cap\'{\i }tulo 3.
-[55]
-LaTeX Info: Redefining \. on input line 553.
-LaTeX Info: Redefining \% on input line 553.
-[56]
-LaTeX Info: Redefining \. on input line 563.
-LaTeX Info: Redefining \% on input line 563.
 [57]
-LaTeX Info: Redefining \. on input line 594.
-LaTeX Info: Redefining \% on input line 594.
+LaTeX Info: Redefining \. on input line 565.
+LaTeX Info: Redefining \% on input line 565.
 [58]
-<images/puntajesdecorteiccs.png, id=821, 463.7325pt x 373.395pt>
+LaTeX Info: Redefining \. on input line 575.
+LaTeX Info: Redefining \% on input line 575.
+[59]
+LaTeX Info: Redefining \. on input line 606.
+LaTeX Info: Redefining \% on input line 606.
+[60]
+<images/puntajesdecorteiccs.png, id=833, 463.7325pt x 373.395pt>
 File: images/puntajesdecorteiccs.png Graphic file (type png)
 <use images/puntajesdecorteiccs.png>
-Package pdftex.def Info: images/puntajesdecorteiccs.png  used on input line 599
+Package pdftex.def Info: images/puntajesdecorteiccs.png  used on input line 611
 .
 (pdftex.def)             Requested size: 346.89731pt x 279.32198pt.
-LaTeX Info: Redefining \. on input line 619.
-LaTeX Info: Redefining \% on input line 619.
-[59]
-LaTeX Info: Redefining \. on input line 643.
-LaTeX Info: Redefining \% on input line 643.
-[60 <./images/puntajesdecorteiccs.png>]
-<images/Rangos-puntaje-simce.png, id=837, 725.71124pt x 370.38374pt>
+LaTeX Info: Redefining \. on input line 631.
+LaTeX Info: Redefining \% on input line 631.
+[61]
+LaTeX Info: Redefining \. on input line 655.
+LaTeX Info: Redefining \% on input line 655.
+[62 <./images/puntajesdecorteiccs.png>]
+<images/Rangos-puntaje-simce.png, id=848, 725.71124pt x 370.38374pt>
 File: images/Rangos-puntaje-simce.png Graphic file (type png)
 <use images/Rangos-puntaje-simce.png>
-Package pdftex.def Info: images/Rangos-puntaje-simce.png  used on input line 65
-3.
+Package pdftex.def Info: images/Rangos-puntaje-simce.png  used on input line 66
+5.
 (pdftex.def)             Requested size: 346.89731pt x 177.04745pt.
-LaTeX Info: Redefining \. on input line 664.
-LaTeX Info: Redefining \% on input line 664.
-[61]
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
-[62 <./images/Rangos-puntaje-simce.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
+LaTeX Info: Redefining \. on input line 676.
+LaTeX Info: Redefining \% on input line 676.
 [63]
-LaTeX Info: Redefining \. on input line 683.
-LaTeX Info: Redefining \% on input line 683.
-[64]
-LaTeX Info: Redefining \. on input line 691.
-LaTeX Info: Redefining \% on input line 691.
-[65]
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+[64 <./images/Rangos-puntaje-simce.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 693.
+LaTeX Info: Redefining \% on input line 693.
+[65]
 LaTeX Info: Redefining \. on input line 695.
 LaTeX Info: Redefining \% on input line 695.
 [66]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 700.
-LaTeX Info: Redefining \% on input line 700.
+LaTeX Info: Redefining \. on input line 703.
+LaTeX Info: Redefining \% on input line 703.
 [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 705.
-LaTeX Info: Redefining \% on input line 705.
+LaTeX Info: Redefining \. on input line 707.
+LaTeX Info: Redefining \% on input line 707.
 [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 709.
-LaTeX Info: Redefining \% on input line 709.
+LaTeX Info: Redefining \. on input line 712.
+LaTeX Info: Redefining \% on input line 712.
 [69]
-Overfull \hbox (8.30473pt too wide) detected at line 745
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 717.
+LaTeX Info: Redefining \% on input line 717.
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 721.
+LaTeX Info: Redefining \% on input line 721.
+[71]
+Overfull \hbox (8.30473pt too wide) detected at line 757
 [][][] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 i[]^^M[][][] \OT1/lmr/m/n/12 + \OML/l
 mm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/
 12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 u[] \OT1/lmr
 /m/n/12 + \OML/lmm/m/it/12 r[]
  []
 
-LaTeX Info: Redefining \. on input line 745.
-LaTeX Info: Redefining \% on input line 745.
-[70]
-LaTeX Info: Redefining \. on input line 764.
-LaTeX Info: Redefining \% on input line 764.
-[71]
-LaTeX Info: Redefining \. on input line 773.
-LaTeX Info: Redefining \% on input line 773.
+LaTeX Info: Redefining \. on input line 757.
+LaTeX Info: Redefining \% on input line 757.
 [72]
+LaTeX Info: Redefining \. on input line 776.
+LaTeX Info: Redefining \% on input line 776.
+[73]
+LaTeX Info: Redefining \. on input line 785.
+LaTeX Info: Redefining \% on input line 785.
+[74]
 Cap\'{\i }tulo 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[73
+[75
 
 ]
-<images/dist.png, id=935, 1927.2pt x 1059.96pt>
+<images/dist.png, id=947, 1927.2pt x 1059.96pt>
 File: images/dist.png Graphic file (type png)
 <use images/dist.png>
-Package pdftex.def Info: images/dist.png  used on input line 784.
+Package pdftex.def Info: images/dist.png  used on input line 796.
 (pdftex.def)             Requested size: 476.98463pt x 262.33687pt.
 
-Overfull \hbox (43.36464pt too wide) in paragraph at lines 784--785
+Overfull \hbox (43.36464pt too wide) in paragraph at lines 796--797
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 791.
-LaTeX Info: Redefining \% on input line 791.
-[74]
-<images/dist2.png, id=941, 624.23213pt x 320.69812pt>
+LaTeX Info: Redefining \. on input line 803.
+LaTeX Info: Redefining \% on input line 803.
+[76]
+<images/dist2.png, id=952, 624.23213pt x 320.69812pt>
 File: images/dist2.png Graphic file (type png)
 <use images/dist2.png>
-Package pdftex.def Info: images/dist2.png  used on input line 799.
+Package pdftex.def Info: images/dist2.png  used on input line 811.
 (pdftex.def)             Requested size: 476.98463pt x 245.05432pt.
 
-Overfull \hbox (43.36464pt too wide) in paragraph at lines 799--800
+Overfull \hbox (43.36464pt too wide) in paragraph at lines 811--812
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 806.
-LaTeX Info: Redefining \% on input line 806.
-[75 <./images/dist.png>]
-LaTeX Info: Redefining \. on input line 812.
-LaTeX Info: Redefining \% on input line 812.
-[76 <./images/dist2.png>]
-<images/relacionmacro.png, id=953, 484.81125pt x 307.1475pt>
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
+[77 <./images/dist.png>]
+LaTeX Info: Redefining \. on input line 824.
+LaTeX Info: Redefining \% on input line 824.
+[78 <./images/dist2.png>]
+<images/relacionmacro.png, id=965, 484.81125pt x 307.1475pt>
 File: images/relacionmacro.png Graphic file (type png)
 <use images/relacionmacro.png>
-Package pdftex.def Info: images/relacionmacro.png  used on input line 815.
+Package pdftex.def Info: images/relacionmacro.png  used on input line 827.
 (pdftex.def)             Requested size: 433.62pt x 274.72891pt.
-LaTeX Info: Redefining \. on input line 823.
-LaTeX Info: Redefining \% on input line 823.
-[77 <./images/relacionmacro.png>]
-<images/scater.png, id=959, 568.9004pt x 284.33728pt>
+LaTeX Info: Redefining \. on input line 835.
+LaTeX Info: Redefining \% on input line 835.
+[79 <./images/relacionmacro.png>]
+<images/scater.png, id=970, 568.9004pt x 284.33728pt>
 File: images/scater.png Graphic file (type png)
 <use images/scater.png>
-Package pdftex.def Info: images/scater.png  used on input line 826.
+Package pdftex.def Info: images/scater.png  used on input line 838.
 (pdftex.def)             Requested size: 346.89731pt x 173.38474pt.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
-35.
+47.
 
 (c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t
 1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/graficobivariadocategorico.png, id=960, 578.16pt x 361.35pt>
+<images/graficobivariadocategorico.png, id=971, 578.16pt x 361.35pt>
 File: images/graficobivariadocategorico.png Graphic file (type png)
 <use images/graficobivariadocategorico.png>
 Package pdftex.def Info: images/graficobivariadocategorico.png  used on input l
-ine 841.
+ine 853.
 (pdftex.def)             Requested size: 346.89731pt x 216.81168pt.
-LaTeX Info: Redefining \. on input line 849.
-LaTeX Info: Redefining \% on input line 849.
-[78 <./images/scater.png>]
+LaTeX Info: Redefining \. on input line 861.
+LaTeX Info: Redefining \% on input line 861.
+[80 <./images/scater.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 850.
-LaTeX Info: Redefining \% on input line 850.
-[79 <./images/graficobivariadocategorico.png>]
-LaTeX Info: Redefining \. on input line 855.
-LaTeX Info: Redefining \% on input line 855.
-[80]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+LaTeX Info: Redefining \. on input line 862.
+LaTeX Info: Redefining \% on input line 862.
+[81 <./images/graficobivariadocategorico.png>]
 LaTeX Info: Redefining \. on input line 867.
 LaTeX Info: Redefining \% on input line 867.
-[81]
-<images/iccplot.png, id=981, 505.89pt x 505.89pt>
+[82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 879.
+LaTeX Info: Redefining \% on input line 879.
+[83]
+<images/iccplot.png, id=993, 505.89pt x 505.89pt>
 File: images/iccplot.png Graphic file (type png)
 <use images/iccplot.png>
-Package pdftex.def Info: images/iccplot.png  used on input line 870.
+Package pdftex.def Info: images/iccplot.png  used on input line 882.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
-LaTeX Info: Redefining \. on input line 877.
-LaTeX Info: Redefining \% on input line 877.
-[82 <./images/iccplot.png>]
-<images/regmultinivel.png, id=989, 496.85625pt x 566.115pt>
+LaTeX Info: Redefining \. on input line 889.
+LaTeX Info: Redefining \% on input line 889.
+[84 <./images/iccplot.png>]
+<images/regmultinivel.png, id=1001, 496.85625pt x 566.115pt>
 File: images/regmultinivel.png Graphic file (type png)
 <use images/regmultinivel.png>
-Package pdftex.def Info: images/regmultinivel.png  used on input line 884.
+Package pdftex.def Info: images/regmultinivel.png  used on input line 896.
 (pdftex.def)             Requested size: 520.34267pt x 592.91797pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 884--884
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 896--896
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 884.
-LaTeX Info: Redefining \% on input line 884.
-[83]
+LaTeX Info: Redefining \. on input line 896.
+LaTeX Info: Redefining \% on input line 896.
+[85]
 Overfull \vbox (87.02797pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 884.
-LaTeX Info: Redefining \% on input line 884.
-[84 <./images/regmultinivel.png>]
+LaTeX Info: Redefining \. on input line 896.
+LaTeX Info: Redefining \% on input line 896.
+[86 <./images/regmultinivel.png>]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 890.
-LaTeX Info: Redefining \% on input line 890.
-[85]
+LaTeX Info: Redefining \. on input line 902.
+LaTeX Info: Redefining \% on input line 902.
+[87]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 893.
-LaTeX Info: Redefining \% on input line 893.
-[86]
-<images/inter2.png, id=1009, 634.16925pt x 310.761pt>
+LaTeX Info: Redefining \. on input line 905.
+LaTeX Info: Redefining \% on input line 905.
+[88]
+<images/inter2.png, id=1020, 634.16925pt x 310.761pt>
 File: images/inter2.png Graphic file (type png)
 <use images/inter2.png>
-Package pdftex.def Info: images/inter2.png  used on input line 898.
+Package pdftex.def Info: images/inter2.png  used on input line 910.
 (pdftex.def)             Requested size: 520.34267pt x 254.99637pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 898--899
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 910--911
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
-[87]
+LaTeX Info: Redefining \. on input line 918.
+LaTeX Info: Redefining \% on input line 918.
+[89]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
-[88 <./images/inter2.png>]
-<images/Mediacion_n1n2.png, id=1019, 566.115pt x 551.05875pt>
+LaTeX Info: Redefining \. on input line 918.
+LaTeX Info: Redefining \% on input line 918.
+[90 <./images/inter2.png>]
+<images/Mediacion_n1n2.png, id=1031, 566.115pt x 551.05875pt>
 File: images/Mediacion_n1n2.png Graphic file (type png)
 <use images/Mediacion_n1n2.png>
-Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 914.
+Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 926.
 (pdftex.def)             Requested size: 346.89731pt x 337.67567pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 914.
-LaTeX Info: Redefining \% on input line 914.
-[89]
-LaTeX Info: Redefining \. on input line 917.
-LaTeX Info: Redefining \% on input line 917.
-[90 <./images/Mediacion_n1n2.png>]
-LaTeX Info: Redefining \. on input line 921.
-LaTeX Info: Redefining \% on input line 921.
-[91] [92
+LaTeX Info: Redefining \. on input line 926.
+LaTeX Info: Redefining \% on input line 926.
+[91]
+LaTeX Info: Redefining \. on input line 929.
+LaTeX Info: Redefining \% on input line 929.
+[92 <./images/Mediacion_n1n2.png>]
+LaTeX Info: Redefining \. on input line 933.
+LaTeX Info: Redefining \% on input line 933.
+[93] [94
 
 ]
 Cap\'{\i }tulo 5.
-[93]
-LaTeX Info: Redefining \. on input line 937.
-LaTeX Info: Redefining \% on input line 937.
-[94]
+[95]
+LaTeX Info: Redefining \. on input line 949.
+LaTeX Info: Redefining \% on input line 949.
+[96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 941.
-LaTeX Info: Redefining \% on input line 941.
-[95]
-LaTeX Info: Redefining \. on input line 945.
-LaTeX Info: Redefining \% on input line 945.
-[96] (./tesis.bbl [97
+LaTeX Info: Redefining \. on input line 953.
+LaTeX Info: Redefining \% on input line 953.
+[97]
+LaTeX Info: Redefining \. on input line 957.
+LaTeX Info: Redefining \% on input line 957.
+[98] (./tesis.bbl [99
 
-] [98
+] [100
 
-] [99]
+] [101]
 LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
-[100]
+[102]
 LaTeX Info: Redefining \. on input line 141.
 LaTeX Info: Redefining \% on input line 141.
-[101]
+[103]
 LaTeX Info: Redefining \. on input line 192.
 LaTeX Info: Redefining \% on input line 192.
-[102]
+[104]
 LaTeX Info: Redefining \. on input line 240.
 LaTeX Info: Redefining \% on input line 240.
-[103]
+[105]
 LaTeX Info: Redefining \. on input line 286.
 LaTeX Info: Redefining \% on input line 286.
-[104]
+[106]
 LaTeX Info: Redefining \. on input line 332.
 LaTeX Info: Redefining \% on input line 332.
-[105]
+[107]
 LaTeX Info: Redefining \. on input line 383.
 LaTeX Info: Redefining \% on input line 383.
-[106]
+[108]
 LaTeX Info: Redefining \. on input line 435.
 LaTeX Info: Redefining \% on input line 435.
-[107])
-LaTeX Info: Redefining \. on input line 965.
-LaTeX Info: Redefining \% on input line 965.
-[108] (./tesis.aux
+[109])
+LaTeX Info: Redefining \. on input line 977.
+LaTeX Info: Redefining \% on input line 977.
+[110] (./tesis.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 )
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9CC6108449D8D3273B55B23A7324E61B;3502.
+(rerunfilecheck)             Checksum: E479920C92928E81C245199C63C53478;3419.
  ) 
 Here is how much of TeX's memory you used:
- 14657 strings out of 480228
- 249316 string characters out of 5892220
- 522582 words of memory out of 5000000
- 32033 multiletter control sequences out of 15000+600000
+ 14665 strings out of 480228
+ 249640 string characters out of 5892220
+ 521790 words of memory out of 5000000
+ 32035 multiletter control sequences out of 15000+600000
  520884 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,12n,69p,2292b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1276,10 +1286,10 @@ ses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/U
 sers/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/
 lm/lmsy10.pfb><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmtt12.pfb>
-Output written on tesis.pdf (116 pages, 1284041 bytes).
+Output written on tesis.pdf (118 pages, 1286600 bytes).
 PDF statistics:
- 1237 PDF objects out of 1440 (max. 8388607)
- 1062 compressed objects within 11 object streams
- 303 named destinations out of 1000 (max. 500000)
+ 1249 PDF objects out of 1440 (max. 8388607)
+ 1072 compressed objects within 11 object streams
+ 309 named destinations out of 1000 (max. 500000)
  244 words of extra memory for PDF output out of 10000 (max. 10000000)
 

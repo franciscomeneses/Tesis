@@ -5,9 +5,7 @@
   padding-left: 4px;
 }
 
-.normal code {
-  padding: 0.2em 0 0.2em 0;  
-}
+
 
 /* don't use line breaks in the header shown on hover */
 .book-header h1 br {
