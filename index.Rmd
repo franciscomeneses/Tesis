@@ -1,10 +1,10 @@
 ---
-title: '<span style="color: #D88712;"> Desigualdad, lenguaje y ciudadania </span>: El rol mitigador del manejo del lenguaje frente a la desigualdad en la educación civica'
-subtitle: "Tesis para optar al grado de Magister"
+title: '<span style="color: #D88712;"> El lenguaje como brecha de la formación ciudadana </span>: El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.'
+subtitle: "Tesis para optar al título de sociólogo y al grado de Master en Ciencias Sociales"
 author: "Francisco Javier Meneses Rivas"
 date: "Santiago de Chile, año 2022" # o para fecha actual: "`r Sys.Date()`"
 institution: "Universidad de Chile"
-degree: "Tesis para optar al grado de Magister en Ciencias Sociales"
+#degree: "Tesis para optar al grado de Magister en Ciencias Sociales"
 advisor: "Profesor guía \n Juan Carlos Castillo"
 bibliography: 
     - tesis.bib
@@ -25,7 +25,7 @@ lot: True
 
 # Resumen {-}
 
-La educación ciudadana busca mejorar las habilidades y actitudes democráticas en jóvenes, pero investigaciones han señalado evidenciado brechas sociales que dificultan la preparación para la ciudadanía. La prueba de conocimiento cívico para estudiantes, que mide habilidades y conocimientos necesarios para la vida ciudadana, ha generado interés en distintos investigadores ya que se asocia positivamente con actitudes democráticas. Esta prueba ha permitido evidenciar la desigualdad social en el conocimiento Cívico. Al explicar esta desigualdad algunos autores han relevado el rol de del capital cultural de las familias. En concreto se ha señalado que poseer libros en el hogar es un gran predictor del conocimiento cívico. Esta evidencia no permite discriminar si tener libros fomenta el conocimiento cívica por algo relacionado con la lectura o simplemente es un indicador de capital cultural de la familia. Para despejar esta posibilidad evaluaremos si el efecto de tener libros en el hogar es controlado por la comprensión lectora, pues de serlo el efecto se asocia a habilidades lingüísticas. Si no logra controlarlo completamente, el efecto podria deberse a otras variables no observadas como las practicas culturales de la familia.  Se trabajaron conjuntamente los datos de la ICCS y el SIMCE (N = 3140). Los analisis de mediación multinivel proveen evidencia para sustentar que el efecto de los libros en el hogar se explica por el desarrollo de habilidades lingüísticas expresadas en la comprensión lectora. Esto refuerza la línea de estudio de los recursos culturales como explicación a la reproducción intergeneracional de la desigualdad política. 
+Actualmente se espera que la educación ciudadana sea capaz de preparar a los jóvenes para la vida democrática, no obstante, investigaciones han evidenciado brechas sociales que dificultan una efectiva preparación para la ciudadanía. Uno de los objetivos de la educación cívica es fomentar el conocimiento cívico en los estudiantes, comprendido como habilidades y saberes necesarios para la vida ciudadana. Desde la sociología de la educación se ha evidenciado que existe desigualdad social en el conocimiento cívico, lo cual significa una amenaza a la democracia y la representatividad. Al explicar esta desigualdad algunos autores han relevado el rol de las escuelas y del capital cultural de las familias. En concreto se ha señalado que tener recursos económicos y poseer libros en el hogar es un gran predictor del conocimiento cívico. Esta evidencia no permite discriminar por qué tener libros y recursos económicos fomenta el conocimiento cívico. Frente a ello, propongo que una parte importante de la desigualdad social del conocimiento cívico se explica por la desigualdad educativa, expresadas en la compresión lectora.  Se trabajo con una perspectiva cuantitativa, utilizando conjuntamente los datos de la ICCS y el SIMCE (N = 3140), mediante metodologías multinivel. Los análisis respaldan la hipótesis, estudiantes con mejor comprensión lectora poseen una gran ventaja en el conocimiento cívico.  Además, la evidencia señala que el efecto de los libros en el hogar se explica por el desarrollo de habilidades lingüísticas expresadas en la comprensión lectora. Esto refuerza la línea de estudio de los recursos culturales como explicación a la reproducción intergeneracional de la desigualdad política. Igualmente, pone la brecha educativa como una barrera para la implementación de la formación ciudadana en Chile. 
 
 Palabras clave: Conocimiento Cívico, Desigualdad política, Comprensión lectora, Interés político
 

@@ -1,20 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.4.1)  17 OCT 2022 01:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.6)  6 DEC 2022 00:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **tesis.tex
 (./tesis.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (./templates/facsothesis.cls
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02> (./templates/facsothesis.cls
 Document Class: templates/facsothesis 2004/01/27 The Reed College Thesis Class
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/bk12.clo
-File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -25,54 +21,39 @@ File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fanc
-yhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
-\f@nch@headwidth=\skip49
-\f@nch@O@elh=\skip50
-\f@nch@O@erh=\skip51
-\f@nch@O@olh=\skip52
-\f@nch@O@orh=\skip53
-\f@nch@O@elf=\skip54
-\f@nch@O@erf=\skip55
-\f@nch@O@olf=\skip56
-\f@nch@O@orf=\skip57
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fanc
-yvrb/fancyvrb.sty
-Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 \FV@CodeLineNo=\count194
 \FV@InFile=\read2
-\FV@TabBox=\box50
+\FV@TabBox=\box51
 \c@FancyVerbLine=\count195
 \FV@StepNumber=\count196
 \FV@OutFile=\write3
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/if
-tex/ifxetex.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/if
-tex/iftex.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/if
-tex/ifluatex.sty
+)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/fixltx2e.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -81,54 +62,36 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/fontenc.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/inputenc.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/color.sty
-Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics-cfg/color.cfg
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fram
-ed/framed.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip58
-\fb@frw=\dimen139
-\fb@frh=\dimen140
-\FrameRule=\dimen141
-\FrameSep=\dimen142
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
-bel/babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
+\OuterFrameSep=\skip59
+\fb@frw=\dimen141
+\fb@frh=\dimen142
+\FrameRule=\dimen143
+\FrameSep=\dimen144
+)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/11/30 3.83 The Babel package
 \babel@savecnt=\count197
-\U@D=\dimen143
+\U@D=\dimen145
 \l@unhyphenated=\language4
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
-bel/txtbabel.def)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count198
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ba
-bel-spanish/spanish.ldf
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks19
 \es@quotdepth=\count199
@@ -136,76 +99,69 @@ Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/graphicx.sty
+)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/trig.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics-cfg/graphics.cfg
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen144
-\Gin@req@width=\dimen145
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/latexsym.sty
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsm
-ath/amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip59
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip60
 For additional information on amsmath, use the `?' option.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsm
-ath/amstext.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsm
-ath/amsgen.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen146
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsm
-ath/amsbsy.sty
+\ex@=\dimen148
+)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen147
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsm
-ath/amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+\pmbraise@=\dimen149
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count266
 LaTeX Info: Redefining \frac on input line 234.
 \uproot@=\count267
 \leftroot@=\count268
 LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
 \classnum@=\count269
 \DOTSCASE@=\count270
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-\big@size=\dimen148
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
 \c@MaxMatrixCols=\count272
 \dotsspace@=\muskip16
 \c@parentequation=\count273
@@ -215,198 +171,154 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \column@=\count276
 \maxfields@=\count277
 \andhelp@=\toks22
-\eqnshift@=\dimen149
-\alignsep@=\dimen150
-\tagshift@=\dimen151
-\tagwidth@=\dimen152
-\totwidth@=\dimen153
-\lineht@=\dimen154
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
 \@envbody=\toks23
-\multlinegap=\skip60
-\multlinetaggap=\skip61
+\multlinegap=\skip61
+\multlinetaggap=\skip62
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsf
-onts/amssymb.sty
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsf
-onts/amsfonts.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsc
-ls/amsthm.sty
+)) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks25
 \thm@bodyfont=\toks26
 \thm@headfont=\toks27
 \thm@notefont=\toks28
 \thm@headpunct=\toks29
-\thm@preskip=\skip62
-\thm@postskip=\skip63
-\thm@headsep=\skip64
+\thm@preskip=\skip63
+\thm@postskip=\skip64
+\thm@headsep=\skip65
 \dth@everypar=\toks30
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tool
-s/longtable.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip65
-\LTright=\skip66
-\LTpre=\skip67
-\LTpost=\skip68
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
 \LTchunksize=\count278
-\LTcapwidth=\dimen155
-\LT@head=\box53
-\LT@firsthead=\box54
-\LT@foot=\box55
-\LT@lastfoot=\box56
-\LT@gbox=\box57
+\LTcapwidth=\dimen157
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
 \LT@cols=\count279
 \LT@rows=\count280
 \c@LT@tables=\count281
 \c@LT@chunks=\count282
 \LT@p@ftn=\toks31
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/book
-tabs/booktabs.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen156
-\lightrulewidth=\dimen157
-\cmidrulewidth=\dimen158
-\belowrulesep=\dimen159
-\belowbottomsep=\dimen160
-\aboverulesep=\dimen161
-\abovetopsep=\dimen162
-\cmidrulesep=\dimen163
-\cmidrulekern=\dimen164
-\defaultaddspace=\dimen165
+\heavyrulewidth=\dimen158
+\lightrulewidth=\dimen159
+\cmidrulewidth=\dimen160
+\belowrulesep=\dimen161
+\belowbottomsep=\dimen162
+\aboverulesep=\dimen163
+\abovetopsep=\dimen164
+\cmidrulesep=\dimen165
+\cmidrulekern=\dimen166
+\defaultaddspace=\dimen167
 \@cmidla=\count283
 \@cmidlb=\count284
-\@aboverulesep=\dimen166
-\@belowrulesep=\dimen167
+\@aboverulesep=\dimen168
+\@belowrulesep=\dimen169
 \@thisruleclass=\count285
 \@lastruleclass=\count286
-\@thisrulewidth=\dimen168
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sets
-pace/setspace.sty
+\@thisrulewidth=\dimen170
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ober
-diek/chemarr.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/oberdiek/chemarr.sty
 Package: chemarr 2016/05/16 v1.3 Arrows for chemical reactions (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/
-url.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
-rref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/lt
-xcmds/ltxcmds.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pd
-ftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/in
-fwarerr/infwarerr.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kv
-setkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kv
-definekeys/kvdefinekeys.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pd
-fescape/pdfescape.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyco
-lor/hycolor.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letl
-txmacro/letltxmacro.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxh
-ook/auxhook.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count287
 )
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvop
-tions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-)
-\@linkdim=\dimen169
-\Hy@linkcounter=\count287
-\Hy@pagecounter=\count288
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
-rref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen171
+\Hy@linkcounter=\count288
+\Hy@pagecounter=\count289
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/in
-tcalc/intcalc.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/et
-excmds/etexcmds.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count289
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
-rref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count290
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count290
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen170
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bi
-tset/bitset.sty
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count291
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen172
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bi
-gintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count291
-\Field@Width=\dimen171
-\Fld@charsize=\dimen172
+\Fld@menulength=\count292
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -414,48 +326,32 @@ Package hyperref Info: backreferencing OFF on input line 6042.
 Package hyperref Info: Link coloring ON on input line 6045.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/atbegshi-ltx.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count292
-\c@Item=\count293
-\c@Hfootnote=\count294
+\Hy@abspage=\count293
+\c@Item=\count294
+\c@Hfootnote=\count295
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
-rref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count295
-\c@bookmark@seq@number=\count296
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/reru
-nfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/un
-iquecounter/uniquecounter.sty
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip69
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/l
-modern.sty
+\Hy@SectionHShift=\skip70
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -489,86 +385,65 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/floa
-t/float.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count297
+\c@float@type=\count298
 \float@exts=\toks32
-\float@box=\box58
+\float@box=\box59
 \@float@everytoks=\toks33
-\@floatcapt=\box59
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grap
-hics/rotating.sty
+\@floatcapt=\box60
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count298
-\rotFPtop=\skip70
-\rotFPbot=\skip71
-\rot@float@box=\box60
+\c@r@tfl@t=\count299
+\rotFPtop=\skip71
+\rotFPbot=\skip72
+\rot@float@box=\box61
 \rot@mess@toks=\toks34
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/plac
-eins/placeins.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natb
-ib/natbib.sty
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip72
-\bibsep=\skip73
+\bibhang=\skip73
+\bibsep=\skip74
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count299
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/capt
-ion/caption.sty
+\c@NAT@ctr=\count300
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/capt
-ion/caption3.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen173
-\captionmargin=\dimen174
-\caption@leftmargin=\dimen175
-\caption@rightmargin=\dimen176
-\caption@width=\dimen177
-\caption@indent=\dimen178
-\caption@parindent=\dimen179
-\caption@hangindent=\dimen180
+\caption@tempdima=\dimen175
+\captionmargin=\dimen176
+\caption@leftmargin=\dimen177
+\caption@rightmargin=\dimen178
+\caption@width=\dimen179
+\caption@indent=\dimen180
+\caption@parindent=\dimen181
+\caption@hangindent=\dimen182
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count300
-\c@continuedfloat=\count301
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/capt
-ion/ltcaption.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
-4.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t
-1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 164.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3ba
-ckend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
-\l__pdf_internal_box=\box61
+) (c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box62
 ) (./tesis.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `tesis.aux'.
 
@@ -590,46 +465,22 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 164.
 LaTeX Font Info:    ... okay on input line 164.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 164.
 LaTeX Font Info:    ... okay on input line 164.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epst
-opdf-pkg/epstopdf-base.sty
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/late
-xconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Info: Redefining \. on input line 164.
 LaTeX Info: Redefining \% on input line 164.
 Package hyperref Info: Link coloring ON on input line 164.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hype
-rref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refc
-ount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ge
-ttitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count303
-)
-LaTeX Info: Redefining \ref on input line 164.
-LaTeX Info: Redefining \pageref on input line 164.
-LaTeX Info: Redefining \nameref on input line 164.
 (./tesis.out) (./tesis.out)
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<images/facso.png, id=76, 437.635pt x 582.175pt>
+<images/facso.png, id=72, 437.635pt x 582.175pt>
 File: images/facso.png Graphic file (type png)
 <use images/facso.png>
 Package pdftex.def Info: images/facso.png  used on input line 168.
@@ -641,63 +492,43 @@ Non-PDF special ignored!
 <special> rawpostscript % Reed College LaTeX Thesis Class 2001/12/04 SN
 
 
-{c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdfte
-x/updmap/pdftex.map} <./images/facso.png>] [2
+{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/facso.png>] [2
 
 ] (./tesis.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/o
-t1lmr.fd
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/o
-mllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-5.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/o
-mslmsy.fd
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-5.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/o
-mxlmex.fd
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
-
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base
-/ulasy.fd
+(Font)              <6> on input line 6.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsf
-onts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsf
-onts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
@@ -728,16 +559,16 @@ LaTeX Info: Redefining \% on input line 1.
 [5] [6]
 Underfull \vbox (badness 5878) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.195 
        [1
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.199 ...{Agradecimientos}\label{agradecimientos}}
@@ -750,470 +581,412 @@ Cap\'{\i }tulo 1.
 ]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 218.
-LaTeX Info: Redefining \% on input line 218.
-[6]
-Underfull \vbox (badness 2970) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 224.
-LaTeX Info: Redefining \% on input line 224.
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
 
 Package fancyhdr Warning: \headheight is too small (14.5pt): 
 (fancyhdr)                Make it at least 27.11652pt, for example:
 (fancyhdr)                \setlength{\headheight}{27.11652pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-
 (fancyhdr)                \addtolength{\topmargin}{-12.61652pt}.
 
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
-[8]
-LaTeX Info: Redefining \. on input line 234.
-LaTeX Info: Redefining \% on input line 234.
-
-Package fancyhdr Warning: \headheight is too small (14.5pt): 
-(fancyhdr)                Make it at least 27.11652pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.11652pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.61652pt}.
-
-[9]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-43.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t
-s1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Info: Redefining \. on input line 252.
-LaTeX Info: Redefining \% on input line 252.
-[10]
-Cap\'{\i }tulo 2.
-[11
+[6] [7] [8
 
 ]
-LaTeX Info: Redefining \. on input line 267.
-LaTeX Info: Redefining \% on input line 267.
-[12]
+Cap\'{\i }tulo 2.
+[9]
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+[10]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 269.
-LaTeX Info: Redefining \% on input line 269.
-[13]
-<images/Contenidos.png, id=336, 561.59813pt x 483.30562pt>
+LaTeX Info: Redefining \. on input line 239.
+LaTeX Info: Redefining \% on input line 239.
+[11]
+<images/Contenidos.png, id=277, 561.59813pt x 483.30562pt>
 File: images/Contenidos.png Graphic file (type png)
 <use images/Contenidos.png>
-Package pdftex.def Info: images/Contenidos.png  used on input line 272.
+Package pdftex.def Info: images/Contenidos.png  used on input line 242.
 (pdftex.def)             Requested size: 346.89731pt x 298.53282pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 272.
-LaTeX Info: Redefining \% on input line 272.
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
+[12]
+LaTeX Info: Redefining \. on input line 247.
+LaTeX Info: Redefining \% on input line 247.
+[13 <./images/Contenidos.png>]
+LaTeX Info: Redefining \. on input line 252.
+LaTeX Info: Redefining \% on input line 252.
 [14]
-LaTeX Info: Redefining \. on input line 277.
-LaTeX Info: Redefining \% on input line 277.
-[15 <./images/Contenidos.png>]
-LaTeX Info: Redefining \. on input line 282.
-LaTeX Info: Redefining \% on input line 282.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 258.
+LaTeX Info: Redefining \% on input line 258.
+[15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 263.
+LaTeX Info: Redefining \% on input line 263.
 [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 288.
-LaTeX Info: Redefining \% on input line 288.
+LaTeX Info: Redefining \. on input line 265.
+LaTeX Info: Redefining \% on input line 265.
 [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 293.
-LaTeX Info: Redefining \% on input line 293.
-[18]
-LaTeX Info: Redefining \. on input line 295.
-LaTeX Info: Redefining \% on input line 295.
-[19]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 297.
-LaTeX Info: Redefining \% on input line 297.
+LaTeX Info: Redefining \. on input line 267.
+LaTeX Info: Redefining \% on input line 267.
+[18]
+LaTeX Info: Redefining \. on input line 275.
+LaTeX Info: Redefining \% on input line 275.
+[19]
+LaTeX Info: Redefining \. on input line 287.
+LaTeX Info: Redefining \% on input line 287.
 [20]
-LaTeX Info: Redefining \. on input line 305.
-LaTeX Info: Redefining \% on input line 305.
-[21]
-LaTeX Info: Redefining \. on input line 317.
-LaTeX Info: Redefining \% on input line 317.
-[22]
-<images/modelo.png, id=469, 722.7pt x 313.17pt>
+<images/modelo.png, id=412, 722.7pt x 313.17pt>
 File: images/modelo.png Graphic file (type png)
 <use images/modelo.png>
-Package pdftex.def Info: images/modelo.png  used on input line 324.
+Package pdftex.def Info: images/modelo.png  used on input line 294.
 (pdftex.def)             Requested size: 411.93767pt x 178.50874pt.
-LaTeX Info: Redefining \. on input line 337.
-LaTeX Info: Redefining \% on input line 337.
-[23 <./images/modelo.PNG>]
-LaTeX Info: Redefining \. on input line 340.
-LaTeX Info: Redefining \% on input line 340.
-[24]
+LaTeX Info: Redefining \. on input line 307.
+LaTeX Info: Redefining \% on input line 307.
+[21 <./images/modelo.PNG>]
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
+[22]
 Cap\'{\i }tulo 3.
-[25
+[23
 
 ]
-LaTeX Info: Redefining \. on input line 354.
-LaTeX Info: Redefining \% on input line 354.
+LaTeX Info: Redefining \. on input line 324.
+LaTeX Info: Redefining \% on input line 324.
+[24]
+LaTeX Info: Redefining \. on input line 334.
+LaTeX Info: Redefining \% on input line 334.
+[25]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 343.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
 [26]
-LaTeX Info: Redefining \. on input line 364.
-LaTeX Info: Redefining \% on input line 364.
-[27]
-LaTeX Info: Redefining \. on input line 395.
-LaTeX Info: Redefining \% on input line 395.
-[28]
-<images/puntajesdecorteiccs.png, id=528, 463.7325pt x 373.395pt>
+<images/puntajesdecorteiccs.png, id=473, 463.7325pt x 373.395pt>
 File: images/puntajesdecorteiccs.png Graphic file (type png)
 <use images/puntajesdecorteiccs.png>
-Package pdftex.def Info: images/puntajesdecorteiccs.png  used on input line 400
-.
+Package pdftex.def Info: images/puntajesdecorteiccs.png  used on input line 370.
 (pdftex.def)             Requested size: 346.89731pt x 279.32198pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 406.
-LaTeX Info: Redefining \% on input line 406.
-[29]
-LaTeX Info: Redefining \. on input line 408.
-LaTeX Info: Redefining \% on input line 408.
-[30 <./images/puntajesdecorteiccs.png>]
-<images/Pregunta-liberada1.png, id=540, 408.77719pt x 516.42938pt>
+LaTeX Info: Redefining \. on input line 376.
+LaTeX Info: Redefining \% on input line 376.
+[27]
+LaTeX Info: Redefining \. on input line 378.
+LaTeX Info: Redefining \% on input line 378.
+[28 <./images/puntajesdecorteiccs.png>]
+<images/Pregunta-liberada1.png, id=484, 408.77719pt x 516.42938pt>
 File: images/Pregunta-liberada1.png Graphic file (type png)
 <use images/Pregunta-liberada1.png>
-Package pdftex.def Info: images/Pregunta-liberada1.png  used on input line 411.
-
+Package pdftex.def Info: images/Pregunta-liberada1.png  used on input line 381.
 (pdftex.def)             Requested size: 346.89731pt x 438.27359pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 417.
-LaTeX Info: Redefining \% on input line 417.
-[31]
+LaTeX Info: Redefining \. on input line 387.
+LaTeX Info: Redefining \% on input line 387.
+[29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 422.
-LaTeX Info: Redefining \% on input line 422.
-[32 <./images/Pregunta-liberada1.png>]
-LaTeX Info: Redefining \. on input line 462.
-LaTeX Info: Redefining \% on input line 462.
-[33]
-<images/Rangos-puntaje-simce.png, id=559, 725.71124pt x 370.38374pt>
+LaTeX Info: Redefining \. on input line 392.
+LaTeX Info: Redefining \% on input line 392.
+[30 <./images/Pregunta-liberada1.png>]
+LaTeX Info: Redefining \. on input line 432.
+LaTeX Info: Redefining \% on input line 432.
+[31]
+<images/Rangos-puntaje-simce.png, id=504, 725.71124pt x 370.38374pt>
 File: images/Rangos-puntaje-simce.png Graphic file (type png)
 <use images/Rangos-puntaje-simce.png>
-Package pdftex.def Info: images/Rangos-puntaje-simce.png  used on input line 46
-5.
+Package pdftex.def Info: images/Rangos-puntaje-simce.png  used on input line 435.
 (pdftex.def)             Requested size: 346.89731pt x 177.04745pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 476.
-LaTeX Info: Redefining \% on input line 476.
-[34 <./images/Rangos-puntaje-simce.png>]
+LaTeX Info: Redefining \. on input line 446.
+LaTeX Info: Redefining \% on input line 446.
+[32 <./images/Rangos-puntaje-simce.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 483.
-LaTeX Info: Redefining \% on input line 483.
-[35]
-LaTeX Info: Redefining \. on input line 493.
-LaTeX Info: Redefining \% on input line 493.
-[36]
+LaTeX Info: Redefining \. on input line 453.
+LaTeX Info: Redefining \% on input line 453.
+[33]
+LaTeX Info: Redefining \. on input line 463.
+LaTeX Info: Redefining \% on input line 463.
+[34]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 496.
-LaTeX Info: Redefining \% on input line 496.
-[37]
+LaTeX Info: Redefining \. on input line 466.
+LaTeX Info: Redefining \% on input line 466.
+[35]
 Underfull \vbox (badness 1616) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 503.
-LaTeX Info: Redefining \% on input line 503.
-[38]
+LaTeX Info: Redefining \. on input line 473.
+LaTeX Info: Redefining \% on input line 473.
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 509.
-LaTeX Info: Redefining \% on input line 509.
+LaTeX Info: Redefining \. on input line 479.
+LaTeX Info: Redefining \% on input line 479.
+[37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 485.
+LaTeX Info: Redefining \% on input line 485.
+[38]
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 487.
+LaTeX Info: Redefining \% on input line 487.
 [39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
+LaTeX Info: Redefining \. on input line 493.
+LaTeX Info: Redefining \% on input line 493.
 [40]
-Underfull \vbox (badness 2970) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 517.
-LaTeX Info: Redefining \% on input line 517.
-[41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 523.
-LaTeX Info: Redefining \% on input line 523.
-[42]
-Overfull \hbox (8.30473pt too wide) detected at line 557
-[][][] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 i[]^^M[][][] \OT1/lmr/m/n/12 + \OML/l
-mm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/
-12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 u[] \OT1/lmr
-/m/n/12 + \OML/lmm/m/it/12 r[]
+Overfull \hbox (8.30473pt too wide) detected at line 527
+[][][][] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 i[]^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 ^^M[][][] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 u[] \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 r[]
  []
 
-LaTeX Info: Redefining \. on input line 565.
-LaTeX Info: Redefining \% on input line 565.
-[43]
-LaTeX Info: Redefining \. on input line 582.
-LaTeX Info: Redefining \% on input line 582.
-[44]
-LaTeX Info: Redefining \. on input line 585.
-LaTeX Info: Redefining \% on input line 585.
-[45] [46
+LaTeX Info: Redefining \. on input line 535.
+LaTeX Info: Redefining \% on input line 535.
+[41]
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
+[42]
+LaTeX Info: Redefining \. on input line 555.
+LaTeX Info: Redefining \% on input line 555.
+[43] [44
 
 ]
 Cap\'{\i }tulo 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[47]
-<images/dist.png, id=663, 1927.2pt x 1059.96pt>
+[45]
+<images/dist.png, id=607, 1927.2pt x 1059.96pt>
 File: images/dist.png Graphic file (type png)
 <use images/dist.png>
-Package pdftex.def Info: images/dist.png  used on input line 596.
+Package pdftex.def Info: images/dist.png  used on input line 566.
 (pdftex.def)             Requested size: 476.98463pt x 262.33687pt.
 
-Overfull \hbox (43.36464pt too wide) in paragraph at lines 596--597
+Overfull \hbox (43.36464pt too wide) in paragraph at lines 566--567
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 602.
-LaTeX Info: Redefining \% on input line 602.
-[48]
-LaTeX Info: Redefining \. on input line 603.
-LaTeX Info: Redefining \% on input line 603.
-[49 <./images/dist.png>]
-<images/dist2.png, id=673, 624.23213pt x 320.69812pt>
+LaTeX Info: Redefining \. on input line 572.
+LaTeX Info: Redefining \% on input line 572.
+[46]
+LaTeX Info: Redefining \. on input line 573.
+LaTeX Info: Redefining \% on input line 573.
+[47 <./images/dist.png>]
+<images/dist2.png, id=618, 624.23213pt x 320.69812pt>
 File: images/dist2.png Graphic file (type png)
 <use images/dist2.png>
-Package pdftex.def Info: images/dist2.png  used on input line 611.
+Package pdftex.def Info: images/dist2.png  used on input line 581.
 (pdftex.def)             Requested size: 476.98463pt x 245.05432pt.
 
-Overfull \hbox (43.36464pt too wide) in paragraph at lines 611--612
+Overfull \hbox (43.36464pt too wide) in paragraph at lines 581--582
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 618.
-LaTeX Info: Redefining \% on input line 618.
-[50 <./images/dist2.png>]
-<images/relacionmacro.png, id=679, 484.81125pt x 307.1475pt>
+LaTeX Info: Redefining \. on input line 588.
+LaTeX Info: Redefining \% on input line 588.
+[48 <./images/dist2.png>]
+<images/relacionmacro.png, id=624, 484.81125pt x 307.1475pt>
 File: images/relacionmacro.png Graphic file (type png)
 <use images/relacionmacro.png>
-Package pdftex.def Info: images/relacionmacro.png  used on input line 627.
+Package pdftex.def Info: images/relacionmacro.png  used on input line 597.
 (pdftex.def)             Requested size: 433.62pt x 274.72891pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 633.
-LaTeX Info: Redefining \% on input line 633.
-[51]
-LaTeX Info: Redefining \. on input line 635.
-LaTeX Info: Redefining \% on input line 635.
-[52 <./images/relacionmacro.png>]
-<images/scater.png, id=690, 568.9004pt x 284.33728pt>
+LaTeX Info: Redefining \. on input line 603.
+LaTeX Info: Redefining \% on input line 603.
+[49]
+LaTeX Info: Redefining \. on input line 605.
+LaTeX Info: Redefining \% on input line 605.
+[50 <./images/relacionmacro.png>]
+<images/scater.png, id=634, 568.9004pt x 284.33728pt>
 File: images/scater.png Graphic file (type png)
 <use images/scater.png>
-Package pdftex.def Info: images/scater.png  used on input line 638.
+Package pdftex.def Info: images/scater.png  used on input line 608.
 (pdftex.def)             Requested size: 346.89731pt x 173.38474pt.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
-47.
-
-(c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t
-1lmtt.fd
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 617.
+(c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/graficobivariadocategorico.png, id=691, 578.16pt x 361.35pt>
+<images/graficobivariadocategorico.png, id=635, 578.16pt x 361.35pt>
 File: images/graficobivariadocategorico.png Graphic file (type png)
 <use images/graficobivariadocategorico.png>
-Package pdftex.def Info: images/graficobivariadocategorico.png  used on input l
-ine 654.
+Package pdftex.def Info: images/graficobivariadocategorico.png  used on input line 624.
 (pdftex.def)             Requested size: 346.89731pt x 216.81168pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
-[53 <./images/scater.png>]
-LaTeX Info: Redefining \. on input line 662.
-LaTeX Info: Redefining \% on input line 662.
-[54 <./images/graficobivariadocategorico.png>]
-LaTeX Info: Redefining \. on input line 668.
-LaTeX Info: Redefining \% on input line 668.
-[55]
+LaTeX Info: Redefining \. on input line 630.
+LaTeX Info: Redefining \% on input line 630.
+[51 <./images/scater.png>]
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+[52 <./images/graficobivariadocategorico.png>]
+LaTeX Info: Redefining \. on input line 638.
+LaTeX Info: Redefining \% on input line 638.
+[53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 680.
-LaTeX Info: Redefining \% on input line 680.
-[56]
-<images/iccplot.png, id=713, 505.89pt x 505.89pt>
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+[54]
+<images/iccplot.png, id=657, 505.89pt x 505.89pt>
 File: images/iccplot.png Graphic file (type png)
 <use images/iccplot.png>
-Package pdftex.def Info: images/iccplot.png  used on input line 683.
+Package pdftex.def Info: images/iccplot.png  used on input line 653.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
-LaTeX Info: Redefining \. on input line 690.
-LaTeX Info: Redefining \% on input line 690.
-[57 <./images/iccplot.png>]
-<images/regmultinivel.png, id=721, 496.85625pt x 566.115pt>
+LaTeX Info: Redefining \. on input line 660.
+LaTeX Info: Redefining \% on input line 660.
+[55 <./images/iccplot.png>]
+<images/regmultinivel.png, id=665, 496.85625pt x 566.115pt>
 File: images/regmultinivel.png Graphic file (type png)
 <use images/regmultinivel.png>
-Package pdftex.def Info: images/regmultinivel.png  used on input line 697.
+Package pdftex.def Info: images/regmultinivel.png  used on input line 667.
 (pdftex.def)             Requested size: 520.34267pt x 592.91797pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 697--697
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 667--667
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 697.
-LaTeX Info: Redefining \% on input line 697.
-[58]
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
+[56]
 Overfull \vbox (87.02797pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 697.
-LaTeX Info: Redefining \% on input line 697.
-[59 <./images/regmultinivel.png>]
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
+[57 <./images/regmultinivel.png>]
 Underfull \vbox (badness 2970) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 703.
-LaTeX Info: Redefining \% on input line 703.
-[60]
+LaTeX Info: Redefining \. on input line 673.
+LaTeX Info: Redefining \% on input line 673.
+[58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 706.
-LaTeX Info: Redefining \% on input line 706.
-[61]
-<images/inter2.png, id=741, 634.16925pt x 310.761pt>
+LaTeX Info: Redefining \. on input line 676.
+LaTeX Info: Redefining \% on input line 676.
+[59]
+<images/inter2.png, id=685, 634.16925pt x 310.761pt>
 File: images/inter2.png Graphic file (type png)
 <use images/inter2.png>
-Package pdftex.def Info: images/inter2.png  used on input line 711.
+Package pdftex.def Info: images/inter2.png  used on input line 681.
 (pdftex.def)             Requested size: 520.34267pt x 254.99637pt.
 
-Overfull \hbox (86.72267pt too wide) in paragraph at lines 711--712
+Overfull \hbox (86.72267pt too wide) in paragraph at lines 681--682
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 717.
-LaTeX Info: Redefining \% on input line 717.
-[62]
-LaTeX Info: Redefining \. on input line 719.
-LaTeX Info: Redefining \% on input line 719.
-[63 <./images/inter2.png>]
-<images/Mediacion_n1n2.png, id=751, 566.115pt x 551.05875pt>
+LaTeX Info: Redefining \. on input line 687.
+LaTeX Info: Redefining \% on input line 687.
+[60]
+LaTeX Info: Redefining \. on input line 689.
+LaTeX Info: Redefining \% on input line 689.
+[61 <./images/inter2.png>]
+<images/Mediacion_n1n2.png, id=696, 566.115pt x 551.05875pt>
 File: images/Mediacion_n1n2.png Graphic file (type png)
 <use images/Mediacion_n1n2.png>
-Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 727.
+Package pdftex.def Info: images/Mediacion_n1n2.png  used on input line 697.
 (pdftex.def)             Requested size: 346.89731pt x 337.67567pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 727.
-LaTeX Info: Redefining \% on input line 727.
+LaTeX Info: Redefining \. on input line 697.
+LaTeX Info: Redefining \% on input line 697.
+[62]
+LaTeX Info: Redefining \. on input line 700.
+LaTeX Info: Redefining \% on input line 700.
+[63 <./images/Mediacion_n1n2.png>]
+LaTeX Info: Redefining \. on input line 704.
+LaTeX Info: Redefining \% on input line 704.
 [64]
-LaTeX Info: Redefining \. on input line 730.
-LaTeX Info: Redefining \% on input line 730.
-[65 <./images/Mediacion_n1n2.png>]
-LaTeX Info: Redefining \. on input line 734.
-LaTeX Info: Redefining \% on input line 734.
-[66]
 Cap\'{\i }tulo 5.
-[67
+[65
 
 ]
-LaTeX Info: Redefining \. on input line 750.
-LaTeX Info: Redefining \% on input line 750.
+LaTeX Info: Redefining \. on input line 720.
+LaTeX Info: Redefining \% on input line 720.
+[66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 724.
+LaTeX Info: Redefining \% on input line 724.
+[67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 728.
+LaTeX Info: Redefining \% on input line 728.
 [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 740.
+LaTeX Info: Redefining \% on input line 740.
+[69] [70
 
-LaTeX Info: Redefining \. on input line 754.
-LaTeX Info: Redefining \% on input line 754.
-[69]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] (./tesis.bbl [71] [72
 
-LaTeX Info: Redefining \. on input line 758.
-LaTeX Info: Redefining \% on input line 758.
-[70]
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
-[71] [72
-
-] (./tesis.bbl [73] [74
-
-] [75]
+] [73]
 LaTeX Info: Redefining \. on input line 94.
 LaTeX Info: Redefining \% on input line 94.
+[74]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+[75]
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
 [76]
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
+LaTeX Info: Redefining \. on input line 230.
+LaTeX Info: Redefining \% on input line 230.
 [77]
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
-[78]
-LaTeX Info: Redefining \. on input line 237.
-LaTeX Info: Redefining \% on input line 237.
-[79]
-LaTeX Info: Redefining \. on input line 286.
-LaTeX Info: Redefining \% on input line 286.
-[80]
-LaTeX Info: Redefining \. on input line 334.
-LaTeX Info: Redefining \% on input line 334.
-[81])
-LaTeX Info: Redefining \. on input line 782.
-LaTeX Info: Redefining \% on input line 782.
-[82] (./tesis.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 277.
+LaTeX Info: Redefining \% on input line 277.
+[78])
+LaTeX Info: Redefining \. on input line 760.
+LaTeX Info: Redefining \% on input line 760.
+[79] (./tesis.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 220BA0CF204938C85F41A79A044927AC;2676.
+(rerunfilecheck)             Checksum: 4FCCF62F9AB170756CC35D5660E6A3A7;2634.
  ) 
 Here is how much of TeX's memory you used:
- 14533 strings out of 480218
- 245925 string characters out of 5891984
- 521443 words of memory out of 5000000
- 31988 multiletter control sequences out of 15000+600000
+ 14644 strings out of 476910
+ 245584 string characters out of 5822871
+ 576653 words of memory out of 5000000
+ 35402 multiletter control sequences out of 15000+600000
  520884 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,69p,1809b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dv
-ips/lm/lm-ec.enc}{c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-di
-st/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/Francisco Meneses R/AppData/Roami
-ng/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Francisco Mene
-ses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users
-/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-t
-s1.enc}<c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/t
-ype1/public/lm/lmbx12.pfb><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX
-/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/Users/Francisco Meneses R/AppD
-ata/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/Users/Franci
-sco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pf
-b><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/
-public/lm/lmr8.pfb><c:/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-
-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/Francisco Meneses R/AppData/Roa
-ming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/Users/Francisco Me
-neses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:
-/Users/Francisco Meneses R/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/publi
-c/lm/lmtt12.pfb>
-Output written on tesis.pdf (90 pages, 1208457 bytes).
+ 72i,12n,77p,1889b,774s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro12.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/franc/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on tesis.pdf (87 pages, 1200094 bytes).
 PDF statistics:
- 946 PDF objects out of 1000 (max. 8388607)
- 801 compressed objects within 9 object streams
- 237 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 884 PDF objects out of 1000 (max. 8388607)
+ 743 compressed objects within 8 object streams
+ 223 named destinations out of 1000 (max. 500000)
+ 212 words of extra memory for PDF output out of 10000 (max. 10000000)
 
