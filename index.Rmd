@@ -1,5 +1,5 @@
 ---
-title: '<span style="color: #D88712;"> El lenguaje como brecha de la formación ciudadana </span>: El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.'
+title: '<span style="color: #D88712;"> El lenguaje como brecha de la formación ciudadana: </span> El rol de la comprensión lectora sobre las habilidades para la ciudadanía y el conocimiento cívico.'
 subtitle: "Tesis para optar al título de sociólogo y al grado de Master en Ciencias Sociales"
 author: "Francisco Javier Meneses Rivas"
 date: "Santiago de Chile, año 2022" # o para fecha actual: "`r Sys.Date()`"

@@ -15,7 +15,7 @@ Respecto al tipo de preguntas, estas son de opción múltiple, pues este formato
 ## Variables 
     
 ### Prueba de conocimiento cívico y ciudadano
-La prueba de conocimiento cívico de la ICCS, tiene como objetivo evaluar los conocimientos necesarios para comprender y valorar la vida en sociedad y las formas de organización democrática, la capacidad de razonar acerca de las instituciones, eventos, acciones y procesos que se desarrollan en sus comunidades y la habilidad de desarrollar y justificar opiniones y visiones sobre estos elementos [@schulz_Initial_2010]. Los ítems de prueba requerían que los estudiantes aplicaran los procesos cognitivos al contenido cívico y de ciudadanía como se describe en el marco de evaluación del reporte técnico [@schulz_ICCS_2016]. Más específicamente, la prueba de conocimiento Cívico y ciudadano mide:
+La prueba de conocimiento cívico de la ICCS tiene como objetivo evaluar los conocimientos necesarios para comprender y valorar la vida en sociedad y las formas de organización democrática, la capacidad de razonar acerca de las instituciones, eventos, acciones y procesos que se desarrollan en sus comunidades y la habilidad de desarrollar y justificar opiniones y visiones sobre estos elementos [@schulz_Initial_2010]. Los ítems de prueba requerían que los estudiantes aplicaran los procesos cognitivos al contenido cívico y de ciudadanía como se describe en el marco de evaluación del reporte técnico [@schulz_ICCS_2016]. Más específicamente, la prueba de conocimiento Cívico y ciudadano mide:
 
 * _Dominios de contenido_   
     +  Sociedad y sistemas cívicos
@@ -33,7 +33,7 @@ Además de las evaluaciones de fiabilidad, invarianza, equivalencia y validez re
 A continuación, se presenta una tabla con distintos rangos de puntaje y distintas capacidades que son asociadas a este puntaje. Como puede verse seria optimo que los jóvenes alcancen puntajes de conocimiento cívico superiores a 563 puntos.   
   
   
-```{r echo=FALSE, fig.cap="rangos iccs", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="Rangos ICCS", fig.align = 'center', out.width = '80%'}
 knitr::include_graphics(path = "images/puntajesdecorteiccs.png")
 ```
 
@@ -41,7 +41,7 @@ knitr::include_graphics(path = "images/puntajesdecorteiccs.png")
 Cabe destacar, que esta prueba de conocimiento cívico ya ha pasado por tres olas internacionales, a partir de las cuales se ha refinado las características psicométricas de la medición. Esta prueba consta tanto de preguntas de selección múltiple como preguntas abiertas, a continuación, se presenta un ejemplo de pregunta en la cual se miden dominios cognitivos de razonamiento y análisis. Al respecto es importante destacar como esta pregunta requiere tanto de conocimientos políticos, como de habilidades propias del lenguaje como es la interpretación. Al respecto, @schulz_Estudio_2011, señalan que las preguntas de razonamiento y análisis requieren del uso del lenguaje para interpretar información, relatar, justificar, integrar, generalizar, evaluar, sugerir soluciones o predecir.
 
 
-```{r echo=FALSE, fig.cap="pregunta", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="Pregunta ejemplo ICCS", fig.align = 'center', out.width = '80%'}
 knitr::include_graphics(path = "images/Pregunta-liberada1.png")
 ```
 
@@ -65,25 +65,25 @@ La comprensión lectora busca evaluar a los estudiantes en su capacidad de manej
 
 Así, como puede apreciarse, para un buen puntaje en comprensión lectora, no solo se requiere la capacidad de decodificar el significado de las palabras, sino que se requiere un manejo del lenguaje a un nivel de razonamiento. Como ya se comentó, el proceso de elaboración y aplicación de la prueba tiene el objetivo de disminuir al mínimo variables externas al manejo del lenguaje que pudieran afectar la medición. Para evaluar las propiedades psicométricas de esta prueba, los encargados de la prueba Simce realizaron análisis en base a lineamientos internacionales [@aera_Report_2011]. En base a los análisis realizados por el equipo técnico [@ace_Informe_2018], podemos decir que la prueba de comprensión lectora es unidimensional (i.e El AFC indica un solo factor), posee independencia local (i.e estudiantes de un mismo rendimiento no presentan dificultades para determinada pregunta por factores externos) y motricidad creciente (i.e es un constructo continuo donde la probabilidad de responder correctamente un ítem aumenta progresivamente en estudiantes de mayor rendimiento). 
 
-```{r echo=FALSE, fig.cap="rangossimce", fig.align = 'center', out.width = '80%'}
+```{r echo=FALSE, fig.cap="Rangos Simce", fig.align = 'center', out.width = '80%'}
 knitr::include_graphics(path = "images/Rangos-puntaje-simce.png")
 ```
 
     
 ### Estatus socioeconómico del estudiante y del colegio. 
     
-Para trabajar la medicación del estatus socieconómico del colegio, se trabajara con tres variables, el estatus ocupacional más alto entre los padres, el nivel educativo más alto de los padres y la cantidad de libros en le hogar. Para simplificar los cálculos a realizar, las dos ultimas variables sera dicotomizadas de tal modo que representen, tener un padre con educación universitaria y poseer más de 100 libros en el hogar respectivamente. Dicotomizar las variables permitira disminuir la cantidada de parametros a estimar y la existencia de categorias con muy pocas respuestas en las escuelas las cuale sestan altamente segregadas socioeconomicamente. Estas variables serán utilizadas para trabajar la mediación.
+Para trabajar la medicación del estatus socioeconómico del colegio, se trabajará con tres variables, el estatus ocupacional más alto entre los padres, el nivel educativo más alto de los padres y la cantidad de libros en el hogar. Para simplificar los cálculos a realizar, las dos últimas variables serán dicotomizadas de tal modo que representen, tener un padre con educación universitaria y poseer más de 100 libros en el hogar respectivamente. Dicotomizar las variables permitirá disminuir la cantidad de parámetros a estimar y la existencia de categorías con muy pocas respuestas en las escuelas las cuales sestan altamente segregadas socioeconómicamente. Estas variables serán utilizadas para trabajar la mediación.
 
-Para trabajar la moderación del efecto  del nivel socioeconómico de los estudiantes se utilizará el Índice nacional de antecedentes socioeconómicos el cual es elaborado por el equipo de la ecuesta ICCS. Este índice es elaborado como un puntaje factorial que representa una variable latente relacionada con el mayor nivel ocupacional entre los padres, el mayor nivel educativo entre los padres y la cantidad de libros declarados en el hogar. Para evaluar el contexto socioeconómico del establecimiento educativo, se trabajará con el promedio por colegio del Índice nacional de antecedentes socioeconómicos. 
 
-    
-### Interés político
-
-Para medir el interés político los estudiantes se utilizará la pregunta creada por la encuesta internacional ICCS. En este ítem se le pregunta al estudiante ¿Qué tan interesado está en temas políticos y sociales? (Muy interesado/ Bastante interesado / No muy interesado / No me interesa en absoluto). Para simplificar el análisis se ha recodificado esta pregunta de tal modo que las dos primeras alternativas se resumen en "Interesado en la politica" y las últimas dos en "No interesado en la politica". Cabe destacar que, para el análisis de mediación, se utilizó la variable original de 4 categorías centrada al promedio de la escuela. 
+Para trabajar la moderación del efecto  del nivel socioeconómico de los estudiantes se utilizará el Índice nacional de antecedentes socioeconómicos el cual es elaborado por el equipo de la encuesta ICCS. Este índice es elaborado como un puntaje factorial que representa una variable latente relacionada con el mayor nivel ocupacional entre los padres, el mayor nivel educativo entre los padres y la cantidad de libros declarados en el hogar. Para evaluar el contexto socioeconómico del establecimiento educativo, se trabajará con el promedio por colegio del Índice nacional de antecedentes socioeconómicos. 
 
 ### Variables de control
 
-Como variables de control, será incluida la calidad de la discusión en el aula, ya que este es un indicador que ha sido consistentemente señalado como relevante por la evidencia, esta variable de nivel dos corresponde al promedio de los indicadores relacionados con las preguntas de clima en el aula. 
+    
+Para medir el interés político los estudiantes se utilizará la pregunta creada por la encuesta internacional ICCS. En este ítem se le pregunta al estudiante ¿Qué tan interesado está en temas políticos y sociales? (Muy interesado/ Bastante interesado / No muy interesado / No me interesa en absoluto). Para simplificar el análisis se ha recodificado esta pregunta de tal modo que las dos primeras alternativas se resumen en "Interesado en la politica" y las últimas dos en "No interesado en la política". Cabe destacar que, para el análisis de mediación, se utilizó la variable original de 4 categorías centrada al promedio de la escuela. 
+
+
+Además, como variables de control, será incluida la calidad de la discusión en el aula, ya que este es un indicador que ha sido consistentemente señalado como relevante por la evidencia, esta variable de nivel dos corresponde al promedio de los indicadores relacionados con las preguntas de clima en el aula. 
 
 
 
@@ -94,17 +94,17 @@ Como variables de control, será incluida la calidad de la discusión en el aula
 
 ## Métodos 
 
-Respecto al método, este estudio trabajara desde un enfoque cuantitativo transversal. El uso de las herramientas cuantitativas es fundamental para despejar las dudas planteadas en este artículo, puesto que la cuantificación, como medición de lo social [@canales_METODOLOGIAS_2006], nos permitirá contrastar que variable posee una mejor capacidad mediadora de la reproducción de la desigualdad política, la comprensión lectora o el interés político. A continuación, se hace una exposición de las técnicas con las que se trabajara y se explicara por que son indispensables para abordar la temática.
+Respecto al método, este estudio trabajara desde un enfoque cuantitativo transversal. El uso de las herramientas cuantitativas es fundamental para despejar las dudas planteadas en este artículo, puesto que la cuantificación, como medición de lo social [@canales_METODOLOGIAS_2006], nos permitirá contrastar que variable posee una mejor capacidad mediadora de la reproducción de la desigualdad política, la comprensión lectora o el interés político. A continuación, se hace una exposición de las técnicas con las que se trabajara y se explicara por qué son indispensables para abordar la temática.
 
-El centro del trabajo utilizara estadística multivariada, más particularmente, regresiones lineales.  Las regresiones lineales según Hayes poseen la intención evaluar la capacidad predictiva de una variable sobre otra. Para representar la relación gráfica y numéricamente, se busca restimar una línea que represente la relación entre una variable independiente y una dependiente.  Esta línea se superpone a un gráfico de dispersión en el cual cada caso s situado en una posición según su valor en el eje x y el eje “y”. De este modo, cuando no hay relación se forma una nube dispersa, mientras que más es la relación los puntos se ajustan más a una línea. La regresión nos permite encontrar la línea que mejor representa la relación .Esta línea en un plano cartesiano nos permite tener conclusiones del tipo “mientras más se tiene de esta variable más se tiene de esta otra”.  Para llegar a estimar esa línea que representa mejor la relación se utiliza la técnica de mínimos cuadrados, la cual es un proceso iterativo donde a partir de probar múltiples rectas, se evalúa cual de ellas genera la menor cantidad de residuos. Los residuos corresponden a la varianza de la dependiente que no es explicada por la independiente. Si dos variables están completamente relacionadas no habrá residuos, y la línea pasará por cada uno de los puntos del gráfico. Matemáticamente, esto implica que el valor de los casos en el plano restado a el valor predicho es 0. Se realiza un calculo que busca encontrar la recta que genera el mínimo, de residuos y por ende representa mejor la relación, que se supone lineal. 
+El centro del trabajo utilizara estadística multivariada, más particularmente, regresiones lineales.  Las regresiones lineales según Hayes poseen la intención evaluar la capacidad predictiva de una variable sobre otra. Para representar la relación gráfica y numéricamente, se busca restimar una línea que represente la relación entre una variable independiente y una dependiente.  Esta línea se superpone a un gráfico de dispersión en el cual cada caso s situado en una posición según su valor en el eje x y el eje “y”. De este modo, cuando no hay relación se forma una nube dispersa, mientras que más es la relación los puntos se ajustan más a una línea. La regresión nos permite encontrar la línea que mejor representa la relación. Esta línea en un plano cartesiano nos permite tener conclusiones del tipo “mientras más se tiene de esta variable más se tiene de esta otra”.  Para llegar a estimar esa línea que representa mejor la relación se utiliza la técnica de mínimos cuadrados, la cual es un proceso iterativo donde a partir de probar múltiples rectas, se evalúa cuál de ellas genera la menor cantidad de residuos. Los residuos corresponden a la varianza de la dependiente que no es explicada por la independiente. Si dos variables están completamente relacionadas no habrá residuos, y la línea pasará por cada uno de los puntos del gráfico. Matemáticamente, esto implica que el valor de los casos en el plano restado a el valor predicho es 0. Se realiza un cálculo que busca encontrar la recta que genera el mínimo, de residuos y por ende, representa mejor la relación, que se supone lineal. 
 
 Las relaciones pueden ser positivas o negativas. Cuando una relación es positiva se ve que la línea que mejor representa la relación parte al comienzo del grafico en la izquierda en un valor menor y que aumenta en tanto avanza a la derecha. Una relación negativa por el contrario implica que a mayor valor de x menor valor de y. 
 
-Los parámetros entregados por la regresión son, p de significación, betas que representan la relación, r2 que representan la fuerza de la relación y un intercepto, el cual corresponde al promedio en un modelo sin predictores y   aumenta o disminuye según se incline la línea de predicción. Por ende,  el intercepto puede ser interpretado como el corte con le eje y cuando la variable dependiente esta en 0, lo cual no siempre tiene una aplicación directa. 
+Los parámetros entregados por la regresión son, p de significación, betas que representan la relación, r2 que representan la fuerza de la relación y un intercepto, el cual corresponde al promedio en un modelo sin predictores y   aumenta o disminuye según se incline la línea de predicción. Por ende,  el intercepto puede ser interpretado como el corte con el eje y cuando la variable dependiente está en 0, lo cual no siempre tiene una aplicación directa. 
 
-Las ventajas de las regresiones son múltiples. En primer lugar, como medida de relación cumple con las exigencias señalada por la metodología. Posee un valor p que nos permite evaluar si es posible extrapolar las conclusiones al universo. Este valor p representa la posibilidad de que la pendiente sea efectivamente distinta a 0, es decir, la posibilidad de que no exista relación. Además, siguiendo los consejos de Cohen, las regresiones entregan un valor que indica la fuerza de la relación lo cual es fundamental para comprender la magnitud de los fenómenos que estamos evaluando.  
+Las ventajas de las regresiones son múltiples. En primer lugar, como medida de relación cumple con las exigencias señalada por la metodología. Posee un valor por qué nos permite evaluar si es posible extrapolar las conclusiones al universo. Este valor p representa la posibilidad de que la pendiente sea efectivamente distinta a 0, es decir, la posibilidad de que no exista relación. Además, siguiendo los consejos de Cohen, las regresiones entregan un valor que indica la fuerza de la relación lo cual es fundamental para comprender la magnitud de los fenómenos que estamos evaluando.  
 
-Una segunda ventaja de las regresiones líneas para nuestro trabajo es que permiten realizar control estadístico. El control estadístico es un proceso complejo por el cual mediante la parcialización de los efectos se puede despejar los efectos comunes de dos variables, para evaluar cual es efectivamente la que posee una influencia sobre la dependiente. De este modo, siguiendo con nuestras hipótesis, el efecto que es generado inicialmente por el nivel socioeconómico debería poder ser controlado por el efecto del manejo del lenguaje, por que en ultima instancia las diferencias deben al mejor manejo del lenguaje en los niveles socioeconómico más altos. Otra forma de entender el control estadístico es considerar los efectos controlados como el efecto de una variable cuando la otra esta constantemente en 0. 
+Una segunda ventaja de las regresiones líneas para nuestro trabajo es que permiten realizar control estadístico. El control estadístico es un proceso complejo por el cual mediante la parcialización de los efectos se puede despejar los efectos comunes de dos variables, para evaluar cual es efectivamente la que posee una influencia sobre la dependiente. De este modo, siguiendo con nuestras hipótesis, el efecto que es generado inicialmente por el nivel socioeconómico debería poder ser controlado por el efecto del manejo del lenguaje, por qué en última instancia las diferencias deben al mejor manejo del lenguaje en los niveles socioeconómico más altos. Otra forma de entender el control estadístico es considerar los efectos controlados como el efecto de una variable cuando la otra está constantemente en 0. 
 
 El control estadístico se logra a partir del proceso de parcialización el cual corresponde a explicar una independiente por otra independiente, y eliminar todo aquello que es explicado (varianza compartida) utilizando los residuos de esa regresión como variable independiente. 
 
@@ -124,7 +124,7 @@ Considerando las recomendaciones de [@zhang_Testing_2009] para cuando todas las 
 
 Esta propuesta si bien será utilizada y es muy enriquecedora metodológicamente, posee dos limitaciones que es necesario resolver para poder trabajar rigurosamente nuestras hipótesis. En primer lugar, esta forma de trabajar las relaciones multinivel no permite saber si el efecto indirecto es significativo, como Sobel señala necesario. Por ello para subsanar esta falencia se utilizará la prueba de Sobel. En segundo lugar, esta perspectiva tampoco permite abordar los tamaños de efecto, por lo cual se considera necesario incluir el efecto mediado en términos de R2, para lo cual se recurrirá a la estimación de Bryk & Raudenbusch (1992).
 
-A continuación, se expone el calculo que a realizar para probar la mediación multinivel. En general el modelo señala que el Conocimiento cívico es explicado por la comprensión lectora, la cual a su vez se debe a los recursos de la familia. El modelo también calcula los efectos directos e indirectos de los recursos de la familia sobre el conocimiento cívico. Las siguientes formulas no contienen todos los controles señalados. 
+A continuación, se expone el cálculo que a realizar para probar la mediación multinivel. En general el modelo señala que el Conocimiento cívico es explicado por la comprensión lectora, la cual a su vez se debe a los recursos de la familia. El modelo también calcula los efectos directos e indirectos de los recursos de la familia sobre el conocimiento cívico. Las siguientes formulas no contienen todos los controles señalados. 
 
 a) _Influencia de los recursos familiares en el lenguaje_
 
@@ -144,7 +144,7 @@ c) _Influencia del lenguaje e influencia controlada de los recursos familiares e
 \text{C.Civico}= i_+\gamma_{70}\text{C.Lectora}_{ij}+\gamma_{70}\text{Ocupación}_{ij} + \gamma_{80}\text{Universitarios}_{ij}+ \gamma_{90}\text{Libros}_{ij}+u_{0j}+r_{ij}
 \end{equation}
 
-  * Efectos indirectos de recursos familiares sobre conocimiento civico
+  * Efectos indirectos de recursos familiares sobre conocimiento cívico
          
      + Ocupación de los padres = $\gamma_{10}\times\gamma_{70}$
       
@@ -158,6 +158,6 @@ En términos de interacciones entre niveles, evaluaremos la capacidad de la comp
 
 ### Software
 
-El software de análisis estadístico utilizado fue R (versión 4.02) y la plataforma de edición Github. Para los análisis multinivel recurrimos al paquete lme4, en su versión 1.1-23 [@bates_Package_2020]. 
+El software de análisis estadístico utilizado fue R (versión 4.02) y la plataforma de edición GitHub. Para los análisis multinivel recurrimos al paquete lme4, en su versión 1.1-23 [@bates_Package_2020]. 
 
 Además, siguiendo los lineamientos de la ciencia abierta, este trabajo está en un repositorio para facilitar tanto su acceso como su reproductibilidad. El lector de este seminario esta cordialmente invitado a visitar la [página web del proyecto](https://franciscomeneses.github.io/Seminario/docs/index.html) en la que se puede revisar tanto el articulo como los análisis. Igualmente, si el lector desea reproducir los análisis para verificar su veracidad, puede descartar el proyecto  desde el [repositorio de Github](https://github.com/franciscomeneses/Seminario). Para facilitar la comprensión del orden de los archivos, estos se han ordenado según el esquema [IPO](https://juancarloscastillo.github.io/ipo/), propuesto por Castillo (2020)

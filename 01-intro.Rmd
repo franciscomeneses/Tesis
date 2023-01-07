@@ -1,7 +1,7 @@
 
 <div style="text-align: justify">
 
-# Introducción: ¿Como se explica la desigualdad en el conocimiento civico? El lenguaje como propuesta
+# Introducción: ¿Como se explica la desigualdad en el conocimiento cívico? El lenguaje como propuesta
 
 En Chile como en otros países, frente la baja y desigual participación ciudadana [@janmaat_Civic_2013; @lijphart_Unequal_1997], se ha promovido desde el ámbito educativo la importancia del conocimiento cívico y la formación ciudadana [@keer_ciudadania_2015].  Esto con el objetivo de propiciar en los jóvenes una ciudadanía comprometida y con más herramientas para la democracia. El conocimiento cívico se define como los conocimientos y habilidades necesarias para llevar la vida democrática [@schulz_Initial_2010], y están asociados con conductas y valores democráticos [@schulz_Initial_2010; @galston_Civic_2007;@miranda_Political_2018]. Por ejemplo, es necesario saber cuáles son los derechos propios de los ciudadanos, así como hay que tener habilidades para utilizar este conocimiento en situaciones concretas. Desde años de investigación sociológica sobre formación ciudadana [@torney_Crossnational_1979], se ha evidenciado que los conocimientos cívicos, se distribuyen desigualmente en la sociedad. La evidencia señala una transmisión intergeneracional de la desigualdad política, según la cual estudiantes con padres de menores recursos poseen consistentemente un menor conocimiento cívico [@castillo_Social_2014; @miranda_Political_2018; @ferrans_Civic_2017; @trevino_Influence_2017]. No obstante, aún es tema de debate las razones por las que los recursos influyen sobre el conocimiento cívico. 
 
