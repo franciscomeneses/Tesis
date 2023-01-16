@@ -70,9 +70,5 @@ En vista de las reflexiones y evidencias anteriores se proponen las siguientes h
 knitr::include_graphics(path = "images/modelo.png")
 ```
 
-Junto con lo anterior, y considerando la capacidad positiva del colegio de mejorar la comprensión lectora de sus estudiantes mediante buenas prácticas como la discusión en clase y la motivación de sus estudiantes, se propone que el colegio puede fomentar un manejo del lenguaje que supere el efecto de la familia, lo cual podría moderar las desigualdades sociales del conocimiento cívico.
-
-* $H_5$ El manejo del lenguaje es capaz de moderar el efecto del nivel socioeconómico sobre el conocimiento cívico.
-
 
 

@@ -118,7 +118,7 @@ knitr::include_graphics(path = "images/iccplot.png")
 
 \newpage
 
-###  Resultados del análisis multinivel: efectos e interacción.
+###  Resultados del análisis multinivel: efectos
 
 En la tabla consecutiva se presentan 3 modelos multinivel. El primer modelo evalúa la propuesta de esta tesis, la asociación entre Conocimiento Cívico y Comprensión Lectora. El segundo modelo expone las variables señaladas por la literatura para explicar. Por último, el tercer modelo evalúa si el efecto de la comprensión lectora es controlado por otras variables relevantes como el origen del estudiante, sus intereses y las practicas escolares.
 
